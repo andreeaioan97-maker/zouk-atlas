@@ -2998,15 +2998,21 @@
         "start": "2025-02-27",
         "end": "2025-03-01",
         "source": "https://fb.me/e/4jFpjK3oU"
+      },
+      "2027": {
+        "start": "2027-02-26",
+        "end": "2027-02-28",
+        "source": "https://zouklambadafriesland.nl",
+        "confirmed_by_organizer": true
       }
     },
-    "status_2027": "unknown (no 2026 edition found)",
-    "website": null,
+    "status_2027": "listed",
+    "website": "https://zouklambadafriesland.nl",
     "facebook_event_latest": "https://fb.me/e/4jFpjK3oU",
     "facebook_page": null,
     "instagram": null,
     "last_checked": "2026-11-10",
-    "note_2027": "Found via the DJ Mesmes \"Brazilian Zouk & Lambada Events in Europe\" FB page."
+    "note_2027": "Organizer site lists \"Holland Zouk Festival 2027\" 26–28 Feb (two rooms, zouk & lambada, at FitClub Workum) and a separate \"Holland ZoukLambada Festival 2027\" 24–30 Sep — unclear whether the September one is a second edition. Found via the DJ Mesmes page and the NL Zouk Agenda group."
   },
   {
     "id": "tallinn-zouk-experience",
@@ -3028,5 +3034,27 @@
     "instagram": null,
     "last_checked": "2026-11-10",
     "note_2027": "Found via the DJ Mesmes \"Brazilian Zouk & Lambada Events in Europe\" FB page."
+  },
+  {
+    "id": "dancenjoy-new-year-zouk-marathon",
+    "name": "Dancenjoy New Year Zouk Marathon",
+    "city": "Ghent",
+    "country": "Belgium",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-12-29",
+        "end": "2027-01-03",
+        "source": "https://dancenjoy.be/marathon-newyear/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "expected (2026 edition not yet held)",
+    "website": "https://dancenjoy.be/marathon/",
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10",
+    "note_2027": "New Year marathon (2026/27 edition), ran since at least 2024/25; recorded under 2026 like Essential Rhythm. Flyer says 29 Dec–4 Jan, site says to 3 Jan. Found via the NL Zouk Agenda FB group."
   }
 ]
