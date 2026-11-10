@@ -32,7 +32,7 @@ zouk festival dates.
 6. Commit the data and the monthly report (not `reports/raw/`) on
    `data/2027-festival-list` with a message like
    "Monthly 2027 check YYYY-MM: N new dates".
-7. `git push origin data/2027-festival-list` to the private GitHub repo
+7. `git push origin data/2027-festival-list` to the public GitHub repo
    (github.com/andreeaioan97-maker/zouk-atlas). If the push fails, say so in the
    monthly report's summary and leave the commit local; don't force-push.
 
