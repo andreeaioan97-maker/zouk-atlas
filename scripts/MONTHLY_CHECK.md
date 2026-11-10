@@ -4,12 +4,13 @@ Instructions for the scheduled Orca automation (Claude). Goal: keep
 `data/festivals.json` / `.csv` current with newly announced 2027 European
 zouk festival dates.
 
-1. `git checkout data/2027-festival-list` (stay on this branch; never touch `main`, never push).
+1. `git checkout data/2027-festival-list` and `git pull --ff-only` (stay on this branch; never touch `main`,
+   never merge it into `main`, never force-push).
 2. Run `python3 -I scripts/check_2027.py --out reports/raw/$(date +%Y-%m)`.
    It takes about 20 minutes and drives Orca's browser slowly. Don't interrupt it.
    - Exit code 2 means a login is missing. Write `reports/$(date +%Y-%m).md` saying
      which login, so the user knows to log in again in this workspace's Orca browser tab.
-     Commit that and stop.
+     Commit that, push it (step 7) and stop.
 3. Read `reports/raw/<month>/report.md`. For each lead:
    - **Instagram**: record a 2027 edition only when the organizer states the dates
      (bio, caption, or flyer). If a date is only on a flyer image, open the post and
@@ -31,6 +32,9 @@ zouk festival dates.
 6. Commit the data and the monthly report (not `reports/raw/`) on
    `data/2027-festival-list` with a message like
    "Monthly 2027 check YYYY-MM: N new dates".
+7. `git push origin data/2027-festival-list` to the private GitHub repo
+   (github.com/andreeaioan97-maker/zouk-atlas). If the push fails, say so in the
+   monthly report's summary and leave the commit local; don't force-push.
 
 Privacy: in the Facebook tab, read only the main column and never chats or
 notifications. Never like, follow, comment or message anything.
