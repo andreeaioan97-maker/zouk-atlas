@@ -2670,5 +2670,58 @@
     "instagram": null,
     "last_checked": "2026-11-10",
     "note_2027": "New series, found via the \"Brazilian Zouk & Lambada Events in Europe – collected by DJ Mesmes\" Facebook page. Capped at 120 dancers; Tangoloft + Haus der Sinne."
+  },
+  {
+    "id": "poland-lambada-congress",
+    "name": "Poland Lambada Congress",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "style": "lambada",
+    "editions": {
+      "2026": {
+        "start": "2026-07-23",
+        "end": "2026-07-27",
+        "source": "https://www.facebook.com/events/1806189009971840/"
+      },
+      "2027": {
+        "start": "2027-07-22",
+        "end": "2027-07-26",
+        "source": "https://www.facebook.com/events/1912429449439412/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/1912429449439412/",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/polandlambadacongress",
+    "last_checked": "2026-11-10",
+    "note_2027": "4th edition; organizer FB event. Found via the \"Zouk Festivals and Events in Europe – Zouk Calendar\" FB group."
+  },
+  {
+    "id": "flow-festival-bremen",
+    "name": "FLOW Festival Bremen",
+    "city": "Bremen",
+    "country": "Germany",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-03-20",
+        "end": "2025-03-23",
+        "source": "https://www.facebook.com/events/794157045407501/"
+      },
+      "2026": {
+        "start": null,
+        "end": null,
+        "source": "https://www.facebook.com/flowfestivalbremen"
+      }
+    },
+    "status_2027": "expected",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/794157045407501/",
+    "facebook_page": "https://www.facebook.com/flowfestivalbremen",
+    "instagram": null,
+    "last_checked": "2026-11-10",
+    "note_2027": "2026 edition held (photo album \"Flow Festival 2026, Bremen\" on the page), exact dates not found; 2024–2025 ran in March. Nothing for 2027 yet. Found via the Zouk Calendar FB group."
   }
 ]
