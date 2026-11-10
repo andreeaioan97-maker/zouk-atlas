@@ -4,13 +4,13 @@ Instructions for the scheduled Orca automation (Claude). Goal: keep
 `data/festivals.json` / `.csv` current with newly announced 2027 European
 zouk festival dates.
 
-1. `git checkout data/2027-festival-list` and `git pull --ff-only` (stay on this branch; never touch `main`,
-   never merge it into `main`, never force-push).
+1. `git checkout main` and `git pull --ff-only`. Work and commit on `main`
+   (the old `data/2027-festival-list` branch is no longer used). Never force-push.
 2. Run `python3 -I scripts/check_2027.py --out reports/raw/$(date +%Y-%m)`.
    It takes about 20 minutes and drives Orca's browser slowly. Don't interrupt it.
    - Exit code 2 means a login is missing. Write `reports/$(date +%Y-%m).md` saying
      which login, so the user knows to log in again in this workspace's Orca browser tab.
-     Commit that, push it (step 7) and stop.
+     Commit that, push it (step 7) and stop. Skip step 8.
 3. Read `reports/raw/<month>/report.md`. For each lead:
    - **Instagram**: record a 2027 edition only when the organizer states the dates
      (bio, caption, or flyer). If a date is only on a flyer image, open the post and
@@ -29,12 +29,20 @@ zouk festival dates.
    Then run `python3 scripts/to_csv.py data/festivals.json data/festivals.csv`.
 5. Write `reports/<YYYY-MM>.md`: new 2027 dates (festival, dates, source), new series,
    things that look off, and the status counts. Keep it short.
-6. Commit the data and the monthly report (not `reports/raw/`) on
-   `data/2027-festival-list` with a message like
+6. Commit the data and the monthly report (not `reports/raw/` or `build/`) on
+   `main` with a message like
    "Monthly 2027 check YYYY-MM: N new dates".
-7. `git push origin data/2027-festival-list` to the public GitHub repo
+7. `git push origin main` to the public GitHub repo
    (github.com/andreeaioan97-maker/zouk-atlas). If the push fails, say so in the
    monthly report's summary and leave the commit local; don't force-push.
+8. Rebuild the festival page and republish it to its existing link:
+   - `python3 -I scripts/build_page.py data/festivals.json scripts/page/template.html build/zouk-atlas-2027.html`
+     (create `build/` first if needed; it is git-ignored).
+   - With the Artifact tool, `read` https://claude.ai/artifact/RiAw2WGzCqCquHdqMCGE8X first,
+     then `publish` `build/zouk-atlas-2027.html` with `url` set to that link. Never publish
+     without `url`, which would create a second page. If publishing fails, say so in
+     the monthly report summary.
+   - Change the page's design only in `scripts/page/template.html`, never in `build/`.
 
 Privacy: in the Facebook tab, read only the main column and never chats or
 notifications. Never like, follow, comment or message anything.

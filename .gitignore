@@ -1,2 +1,3 @@
 reports/raw/
 __pycache__/
+build/

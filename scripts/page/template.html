@@ -1,0 +1,175 @@
+<title>Zouk Atlas 2027</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: one column calendar, month headings, each festival a row with a date block on the left; undated series below */
+:root{
+  --bg:#f4f6f5; --surface:#ffffff; --fg:#13211e; --muted:#5a6966; --line:#dde4e2;
+  --accent:#0d6f66; --accent-soft:#dff0ed; --coral:#b4452f; --coral-soft:#fbe7e2; --gold:#8a6400; --gold-soft:#f8eecf;
+  --display:"Bricolage Grotesque",system-ui,sans-serif; --body:"Inter",system-ui,sans-serif; --mono:"JetBrains Mono",ui-monospace,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0f1716; --surface:#172220; --fg:#e6efed; --muted:#9db0ac; --line:#26332f;
+  --accent:#5cc8bb; --accent-soft:#16332f; --coral:#f08a72; --coral-soft:#3a201a; --gold:#e3b54d; --gold-soft:#332a12; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1716; --surface:#172220; --fg:#e6efed; --muted:#9db0ac; --line:#26332f;
+  --accent:#5cc8bb; --accent-soft:#16332f; --coral:#f08a72; --coral-soft:#3a201a; --gold:#e3b54d; --gold-soft:#332a12; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.5;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:36px 72px}
+main{max-width:860px;margin:0 auto;display:flex;flex-direction:column;gap:28px}
+header{display:flex;flex-direction:column;gap:8px}
+.eyebrow{font-size:12px;letter-spacing:.09em;text-transform:uppercase;color:var(--accent);font-weight:600}
+h1,h2,h3{font-family:var(--display);margin:0;text-wrap:balance;line-height:1.15}
+h1{font-size:clamp(30px,6vw,44px);font-weight:700}
+.lede{color:var(--muted);margin:0;max-width:62ch}
+.stats{display:flex;flex-wrap:wrap;gap:6px 22px;margin-top:6px;font-size:14px;color:var(--muted)}
+.stats b{font-family:var(--mono);color:var(--fg);font-weight:500;font-variant-numeric:tabular-nums}
+.controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px}
+.controls input[type=search],.controls select{font:inherit;font-size:14px;color:var(--fg);background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:8px 10px;min-width:0}
+.controls input[type=search]{flex:1 1 200px}
+.controls select{flex:0 1 180px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;flex:1 1 100%}
+.chip{font:inherit;font-size:13px;border:1px solid var(--line);background:transparent;color:var(--muted);border-radius:999px;padding:4px 11px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+.toggle{display:flex;align-items:center;gap:6px;font-size:13px;color:var(--muted);cursor:pointer}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.month{display:flex;flex-direction:column;gap:2px}
+.month h2{font-size:22px;font-weight:600;display:flex;align-items:baseline;gap:10px;padding-bottom:8px;border-bottom:2px solid var(--fg)}
+.month h2 span{font-family:var(--mono);font-size:13px;color:var(--muted);font-weight:500}
+.ev{display:grid;grid-template-columns:92px 1fr;gap:14px;padding:12px 0;border-bottom:1px solid var(--line)}
+.date{font-family:var(--mono);font-variant-numeric:tabular-nums;font-size:14px;line-height:1.3}
+.date .d{font-size:17px;color:var(--accent)}
+.date .w{color:var(--muted);font-size:11.5px;text-transform:uppercase;letter-spacing:.05em}
+.body{min-width:0;display:flex;flex-direction:column;gap:4px}
+.name{font-weight:600;font-size:16px}
+.where{color:var(--muted);font-size:14px}
+.tags{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:12px}
+.tag{border-radius:5px;padding:1px 7px;font-weight:500}
+.s-bz{background:var(--accent-soft);color:var(--accent)}
+.s-lambada{background:var(--coral-soft);color:var(--coral)}
+.s-bzl{background:linear-gradient(90deg,var(--accent-soft),var(--coral-soft));color:var(--fg)}
+.s-mixed,.s-bachazouk{background:var(--gold-soft);color:var(--gold)}
+.conf{color:var(--accent);font-weight:500}
+.unconf{color:var(--muted)}
+.links{display:flex;flex-wrap:wrap;gap:12px;font-size:13px}
+.links a{color:var(--accent);text-decoration:none;border-bottom:1px solid var(--line)}
+.links a:hover{border-color:var(--accent)}
+.note{font-size:13px;color:var(--muted);max-width:68ch}
+.later h2{font-size:22px;font-weight:600;padding-bottom:8px;border-bottom:2px solid var(--fg)}
+.later p.sub{color:var(--muted);font-size:14px;margin:8px 0 4px}
+.later ul{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:0 24px}
+.later li{padding:9px 0;border-bottom:1px solid var(--line);display:flex;flex-direction:column;gap:2px;min-width:0}
+.later .st{font-size:12px;color:var(--muted)}
+.later .st.warn{color:var(--coral)}
+.empty{color:var(--muted);padding:18px 0}
+footer{color:var(--muted);font-size:13px;border-top:1px solid var(--line);padding-top:14px}
+footer a{color:var(--accent)}
+@media (max-width:520px){.ev{grid-template-columns:74px 1fr;gap:10px}.date .d{font-size:15px}}
+</style>
+
+<main>
+  <header>
+    <span class="eyebrow">Zouk Atlas · Europe</span>
+    <h1>Zouk festivals in 2027</h1>
+    <p class="lede">Brazilian zouk and lambada festivals, marathons, congresses and dance holidays across Europe, with every 2027 date announced so far.</p>
+    <div class="stats" id="stats"></div>
+  </header>
+
+  <div class="controls" role="search">
+    <input type="search" id="q" placeholder="Search festival or city" aria-label="Search festival or city">
+    <select id="country" aria-label="Country"><option value="">All countries</option></select>
+    <label class="toggle"><input type="checkbox" id="conf"> Confirmed by organizer only</label>
+    <div class="chips" id="styles" aria-label="Dance style"></div>
+  </div>
+
+  <div id="cal"></div>
+
+  <section class="later">
+    <h2>No 2027 dates yet</h2>
+    <p class="sub" id="latersub"></p>
+    <ul id="later"></ul>
+  </section>
+
+  <footer>Data as of <span id="asof"></span>, checked monthly. Source and full data: <a href="https://github.com/andreeaioan97-maker/zouk-atlas/blob/main/data/festivals.csv">festivals.csv on GitHub</a>. Dates marked "listing site" come from danceplace or similar and are not yet confirmed by the organizer.</footer>
+</main>
+
+<script>
+const DATA = /*DATA*/[];
+const ASOF = "/*ASOF*/";
+const STYLE = {bz:["Brazilian zouk","s-bz"],"bz+lambada":["Zouk & lambada","s-bzl"],lambada:["Lambada","s-lambada"],mixed:["Mixed styles","s-mixed"],bachazouk:["Bachazouk","s-bachazouk"]};
+const MON = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+const WD = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
+const pd = s => { const [y,m,d] = s.split("-").map(Number); return new Date(Date.UTC(y,m-1,d)); };
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function range(e){
+  const a = pd(e.start), b = e.end ? pd(e.end) : null;
+  const da = a.getUTCDate(), ma = MON[a.getUTCMonth()];
+  if(!b || +a === +b) return {d:`${da} ${ma}`, w:WD[a.getUTCDay()]};
+  const db = b.getUTCDate(), mb = MON[b.getUTCMonth()];
+  return {d: ma === mb ? `${da}–${db} ${ma}` : `${da} ${ma}–${db} ${mb}`, w:`${WD[a.getUTCDay()]}–${WD[b.getUTCDay()]}`};
+}
+const state = {q:"", country:"", style:"", conf:false};
+try { const s = JSON.parse(localStorage.getItem("za-filters")||"null"); if(s) Object.assign(state, s); } catch(e){}
+function save(){ try{ localStorage.setItem("za-filters", JSON.stringify(state)); }catch(e){} }
+
+function match(f){
+  if(state.country && f.country !== state.country) return false;
+  if(state.style && f.style !== state.style) return false;
+  if(state.q){ const q = state.q.toLowerCase(); if(!(f.name+" "+f.city+" "+f.country).toLowerCase().includes(q)) return false; }
+  return true;
+}
+function links(f, src){
+  const L = [];
+  if(src) L.push(`<a href="${esc(src)}" target="_blank" rel="noopener">Date source</a>`);
+  if(f.website) L.push(`<a href="${esc(f.website)}" target="_blank" rel="noopener">Website</a>`);
+  if(f.instagram) L.push(`<a href="${esc(f.instagram)}" target="_blank" rel="noopener">Instagram</a>`);
+  return L.length ? `<div class="links">${L.join("")}</div>` : "";
+}
+function render(){
+  const dated = DATA.filter(f => f.e27 && f.e27.start).sort((a,b) => a.e27.start.localeCompare(b.e27.start) || a.name.localeCompare(b.name));
+  const shown = dated.filter(f => match(f) && (!state.conf || f.e27.confirmed_by_organizer));
+  const byM = {};
+  shown.forEach(f => (byM[+f.e27.start.slice(5,7)-1] ??= []).push(f));
+  const cal = document.getElementById("cal");
+  cal.innerHTML = Object.keys(byM).length ? Object.keys(byM).map(m => `
+    <section class="month"><h2>${MONTHS[m]} 2027 <span>${byM[m].length}</span></h2>
+    ${byM[m].map(f => { const r = range(f.e27), st = STYLE[f.style] || [f.style,"s-mixed"]; return `
+      <article class="ev"><div class="date"><div class="d">${r.d}</div><div class="w">${r.w}</div></div>
+      <div class="body"><div class="name">${esc(f.name)}</div><div class="where">${esc(f.city)}, ${esc(f.country)}</div>
+      <div class="tags"><span class="tag ${st[1]}">${st[0]}</span>${f.e27.confirmed_by_organizer ? '<span class="conf">✓ Confirmed by organizer</span>' : '<span class="unconf">Listing site</span>'}</div>
+      ${links(f, f.e27.source)}</div></article>`; }).join("")}
+    </section>`).join("") : `<p class="empty">No 2027 festivals match these filters.</p>`;
+
+  const later = DATA.filter(f => !(f.e27 && f.e27.start) && match(f)).sort((a,b) => a.name.localeCompare(b.name));
+  document.getElementById("latersub").textContent = `${later.length} series without announced 2027 dates. The last known edition is shown where there is one.`;
+  document.getElementById("later").innerHTML = later.map(f => {
+    const last = f.last ? `Last: ${range(f.last).d} ${f.last.start.slice(0,4)}` : "";
+    const warn = /cancel|moved/.test(f.status);
+    return `<li><span class="name" style="font-size:15px">${esc(f.name)}</span><span class="where">${esc(f.city)}, ${esc(f.country)}</span>
+      <span class="st${warn?" warn":""}">${esc(f.status)}${last?" · "+last:""}</span></li>`; }).join("");
+
+  const c = new Set(dated.map(f => f.country));
+  document.getElementById("stats").innerHTML =
+    `<span><b>${dated.length}</b> festivals with 2027 dates</span><span><b>${dated.filter(f=>f.e27.confirmed_by_organizer).length}</b> confirmed by organizer</span><span><b>${c.size}</b> countries</span><span><b>${DATA.length}</b> series tracked</span>`;
+  save();
+}
+function init(){
+  document.getElementById("asof").textContent = pd(ASOF).toLocaleDateString("en-GB",{day:"numeric",month:"long",year:"numeric",timeZone:"UTC"});
+  const sel = document.getElementById("country");
+  [...new Set(DATA.map(f => f.country))].sort().forEach(c => sel.add(new Option(c, c)));
+  const chips = document.getElementById("styles");
+  chips.innerHTML = [["", "All styles"], ...Object.entries(STYLE).map(([k,v]) => [k, v[0]])].map(([k,l]) => `<button type="button" class="chip" data-s="${k}">${l}</button>`).join("");
+  const q = document.getElementById("q"), cf = document.getElementById("conf");
+  q.value = state.q; sel.value = state.country; cf.checked = state.conf;
+  const syncChips = () => chips.querySelectorAll(".chip").forEach(b => b.setAttribute("aria-pressed", b.dataset.s === state.style));
+  syncChips();
+  q.addEventListener("input", () => { state.q = q.value.trim(); render(); });
+  sel.addEventListener("change", () => { state.country = sel.value; render(); });
+  cf.addEventListener("change", () => { state.conf = cf.checked; render(); });
+  chips.addEventListener("click", e => { const b = e.target.closest(".chip"); if(!b) return; state.style = b.dataset.s; syncChips(); render(); });
+  render();
+}
+init();
+</script>
