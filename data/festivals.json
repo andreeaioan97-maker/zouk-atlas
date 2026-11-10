@@ -1,0 +1,2674 @@
+[
+  {
+    "id": "dance-blender-festival",
+    "name": "Dance Blender Festival",
+    "city": "Vienna",
+    "country": "Austria",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-11-26",
+        "end": "2025-12-01",
+        "source": "https://www.danceplace.com/index/no/16144/Dance+Blender+Festival-2025-Vienna-Austria-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "unknown (no 2026 edition found)",
+    "website": "https://www.danceblender.com",
+    "facebook_event_latest": "https://www.facebook.com/events/3986752891554663",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/danceblenderfestival",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "paraiso-festival-vienna-bachata-zouk",
+    "name": "Paraiso Festival (Vienna Bachata & Zouk)",
+    "city": "Vienna",
+    "country": "Austria",
+    "style": "mixed",
+    "editions": {
+      "2026": {
+        "start": "2026-03-06",
+        "end": "2026-03-08",
+        "source": "https://goandance.com/en/event/8509/paraiso-festival-vienna-bachata-zouk-festival"
+      }
+    },
+    "status_2027": "expected",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "kizz-me-bachamore-congress",
+    "name": "Kizz'Me BachAmore Congress",
+    "city": "Mons",
+    "country": "Belgium",
+    "style": "mixed",
+    "editions": {
+      "2026": {
+        "start": "2026-04-10",
+        "end": "2026-04-13",
+        "source": "https://www.salsavida.com/?p=26682"
+      }
+    },
+    "status_2027": "expected",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "zouk-hour-belgium",
+    "name": "Zouk Hour Belgium",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-06-21",
+        "end": "2025-06-22",
+        "source": "https://www.danceplace.com/index/no/14701/Zouk+Hour+Belgium+-2025-Mechelen-Belgium-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-09-11",
+        "end": "2026-09-13",
+        "source": "https://www.danceplace.com/index/no/17020/Zouk+Hour+Belgium+-2026-Antwerp-Belgium-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zoukhourbelgium",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "croatia-lambada-marathon",
+    "name": "Croatia Lambada Marathon",
+    "city": "Tisno",
+    "country": "Croatia",
+    "style": "lambada",
+    "editions": {
+      "2025": {
+        "start": "2025-05-14",
+        "end": "2025-05-19",
+        "source": "https://www.danceplace.com/index/no/14931/Croatia+Lambada+Marathon-2025-Tisno-Croatia-Lambada+Dance+event"
+      },
+      "2026": {
+        "start": "2026-06-17",
+        "end": "2026-06-22",
+        "source": "https://www.danceplace.com/index/no/16972/Croatia+Lambada+Marathon-2026-Tisno-Croatia-Lambada+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://linktr.ee/croatiazouk",
+    "facebook_event_latest": "https://www.facebook.com/events/1739544790318141",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/croatialambadamarathon",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "croatia-zouk-marathon",
+    "name": "Croatia Zouk Marathon",
+    "city": "Tisno",
+    "country": "Croatia",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-06-05",
+        "end": "2025-06-10",
+        "source": "https://www.danceplace.com/index/no/14930/Croatia+Zouk+Marathon-2025-Tisno-Croatia-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-06-04",
+        "end": "2026-06-09",
+        "source": "https://www.danceplace.com/index/no/15939/Croatia+Zouk+Marathon-2026-Tisno-Croatia-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-06-04",
+        "end": "2027-06-09",
+        "source": "https://www.instagram.com/croatiazoukmarathon/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/1851937142256156",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/croatiazoukmarathon",
+    "last_checked": "2026-11-10",
+    "note_2027": "IG bio: \"4th and LAST edition (no workshops, WITH artists)\"."
+  },
+  {
+    "id": "zouktime-dance-holiday-in-croatia",
+    "name": "ZOUKTIME! Dance Holiday in Croatia",
+    "city": "Dramalj",
+    "country": "Croatia",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-08-30",
+        "end": "2025-09-13",
+        "source": "https://www.danceplace.com/index/no/15795/ZOUKTIME_+Dance+Holiday+In+Croatia-2025-Dramalj-Croatia-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-09-05",
+        "end": "2027-09-12",
+        "source": "https://www.instagram.com/zouktimeevents/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://www.studiostolarna.cz/en/zouktimecroatia2025",
+    "facebook_event_latest": "https://www.facebook.com/events/543550408245437",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zouktimeevents",
+    "last_checked": "2026-11-10",
+    "note_2027": "From organizer IG bio."
+  },
+  {
+    "id": "christmas-prague-zouk-mass",
+    "name": "Christmas Prague Zouk Mass",
+    "city": "Prague",
+    "country": "Czechia",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-12-12",
+        "end": "2025-12-15",
+        "source": "https://www.danceplace.com/index/no/16255/Christmas+Prague+Zouk+Mass-2025-Prague-Czech+Republic-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "unknown (no 2026 edition found)",
+    "website": "http://www.praguezoukmarathon.com",
+    "facebook_event_latest": "https://www.facebook.com/events/1353518272441860",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/praguezoukmarathon",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "prague-zouk-congress",
+    "name": "Prague Zouk Congress",
+    "city": "Prague",
+    "country": "Czechia",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-07-24",
+        "end": "2025-07-28",
+        "source": "https://www.danceplace.com/index/no/14875/Prague+Zouk+Congress-2025-Prague-Czech+Republic-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-07-09",
+        "end": "2026-07-13",
+        "source": "https://www.danceplace.com/index/no/16686/Prague+Zouk+Congress-2026-Prague-Czech+Republic-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-07-07",
+        "end": "2027-07-12",
+        "source": "https://where-to-dance-salsa.com/festivals/prague/prague-zouk-congress-2027/"
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://www.brazilianzoukonlineclasses.com",
+    "facebook_event_latest": "https://www.facebook.com/events/470409049291018",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/carlosandfernanda",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "prague-zouk-marathon-autumn-edition",
+    "name": "Prague Zouk Marathon – Autumn Edition",
+    "city": "Prague",
+    "country": "Czechia",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-09-17",
+        "end": "2025-09-22",
+        "source": "https://www.danceplace.com/index/no/14248/Prague+Zouk+Marathon+Autumn+Edition-2025-Prague-Czech+Republic-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-09-16",
+        "end": "2026-09-21",
+        "source": "https://www.danceplace.com/index/no/17717/Prague+Zouk+Marathon+Autumn+Edition-2026-Prague-Czech+Republic-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-09-15",
+        "end": "2027-09-20",
+        "source": "https://www.praguezouk.com/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://www.praguezouk.com/",
+    "facebook_event_latest": "https://www.facebook.com/events/649081238013765",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/praguezoukmarathon",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "prague-zouk-marathon-spring-edition",
+    "name": "Prague Zouk Marathon – Spring Edition",
+    "city": "Prague",
+    "country": "Czechia",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-04-30",
+        "end": "2025-05-05",
+        "source": "https://www.danceplace.com/index/no/14247/Prague+Zouk+Marathon+Spring+Edition-2025-Prague-Czech+Republic-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-05-05",
+        "end": "2027-05-10",
+        "source": "https://www.praguezouk.com/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://www.praguezouk.com/",
+    "facebook_event_latest": "https://www.facebook.com/events/882896843644078",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/praguezoukmarathon",
+    "last_checked": "2026-11-10",
+    "note_2027": "No 2026 edition found, but organizer site lists 2027 spring edition."
+  },
+  {
+    "id": "zouktime-brno-zouk-lambada-festival",
+    "name": "ZOUKTIME! Brno Zouk & Lambada Festival",
+    "city": "Brno",
+    "country": "Czechia",
+    "style": "bz+lambada",
+    "editions": {
+      "2025": {
+        "start": "2025-11-14",
+        "end": "2025-11-17",
+        "source": "https://www.danceplace.com/index/no/16179/Zouk+Time-2025-Brno-Czech+Republic-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-11-13",
+        "end": "2026-11-15",
+        "source": "https://www.danceplace.com/index/no/18012/Zouk+Time-2026-Brno-Czech+Republic-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected (2026 edition not yet held)",
+    "website": "http://www.zouktime.com",
+    "facebook_event_latest": "https://www.facebook.com/events/1876688642933608",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zouktimeevents",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "tallinn-zouk-sensation",
+    "name": "Tallinn Zouk Sensation",
+    "city": "Tallinn",
+    "country": "Estonia",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-09-10",
+        "end": "2026-09-14",
+        "source": "https://www.danceplace.com/index/no/16811/Tallinn+Zouk+Sensation+-2026-Tallinn-Estonia-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://tallinnzouk.ee/product/tzs-2026/",
+    "facebook_event_latest": "https://www.facebook.com/events/1932180404356947",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/tallinnzouksensation",
+    "last_checked": "2026-11-10",
+    "note_2027": "No 2027 found (organizer site lists only 2026, checked 2026-11-10)."
+  },
+  {
+    "id": "helsinki-zouk-festival",
+    "name": "Helsinki Zouk Festival",
+    "city": "Helsinki",
+    "country": "Finland",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-06-13",
+        "end": "2025-06-16",
+        "source": "https://www.danceplace.com/index/no/13598/Helsinki+Zouk+Festival-2025-Helsinki-Finland-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-06-12",
+        "end": "2026-06-14",
+        "source": "https://www.danceplace.com/index/no/16199/Helsinki+Zouk+Festival-2026-Helsinki-Finland-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-06-18",
+        "end": "2027-06-21",
+        "source": "https://www.helsinkidancecentral.com/courses-events/winterzoukfestival",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": "http://www.riozoukstyle.com",
+    "facebook_event_latest": "https://www.facebook.com/events/1777186023154483",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/helsinkizoukfestival",
+    "last_checked": "2026-11-10",
+    "note_2027": "Organizer site gives 18–21 June 2027; danceplace had 18–20."
+  },
+  {
+    "id": "winter-zouk-festival-helsinki",
+    "name": "Winter Zouk Festival Helsinki",
+    "city": "Helsinki",
+    "country": "Finland",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-11-07",
+        "end": "2026-11-08",
+        "source": "https://www.danceplace.com/index/no/17983/Winter+Zouk+Festival+-2026-Helsinki-Finland-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://www.helsinkidancecentral.com/courses-events/winterzoukfestival",
+    "facebook_event_latest": "https://facebook.com/events/s/-winter-zouk-festival-/995614408910992",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/helsinkidancecentral",
+    "last_checked": "2026-11-10",
+    "note_2027": "No 2027 found (organizer site lists only 2026, checked 2026-11-10)."
+  },
+  {
+    "id": "aupa-brasil-zouk-congress",
+    "name": "Aupa Brasil Zouk Congress",
+    "city": "Hendaye",
+    "country": "France",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-08-01",
+        "end": "2025-08-03",
+        "source": "https://www.danceplace.com/index/no/14276/Aupa+Brasil+Zouk+Congress-2025-Hendaye-France-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-07-24",
+        "end": "2026-07-26",
+        "source": "https://www.danceplace.com/index/no/16512/Aupa+Brasil+Zouk+Congress-2026-Hendaye-France-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-07-22",
+        "end": "2027-07-25",
+        "source": "https://www.instagram.com/aupa.brasilzoukcongress/p/DbT2Krvt5TK/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": "https://www.facebook.com/dantzacarioca",
+    "instagram": "https://www.instagram.com/aupa.brasilzoukcongress",
+    "last_checked": "2026-11-10",
+    "note_2027": "4th edition; early-bird on helloasso."
+  },
+  {
+    "id": "bleu-blanc-zouk",
+    "name": "Bleu Blanc Zouk",
+    "city": "Paris",
+    "country": "France",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-07-04",
+        "end": "2025-07-06",
+        "source": "https://www.danceplace.com/index/no/15561/Bleu+Blanc+Zouk-2025-Paris-France-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-07-09",
+        "end": "2027-07-11",
+        "source": "https://www.instagram.com/bleublanczouk/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": "http://alexdecarvalho.com.br/bleublanczouk",
+    "facebook_event_latest": "https://www.facebook.com/events/961033472684421",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/bleublanczouk",
+    "last_checked": "2026-11-10",
+    "note_2027": "IG bio + save-the-date post by co-organizer @alexdecarvalhozouk."
+  },
+  {
+    "id": "brazilian-dance-festival-united-lyon",
+    "name": "Brazilian Dance Festival United Lyon",
+    "city": "Lyon",
+    "country": "France",
+    "style": "bz+lambada",
+    "editions": {
+      "2026": {
+        "start": "2026-03-05",
+        "end": "2026-03-08",
+        "source": "https://www.danceplace.com/index/no/16158/Brazilian+Dance+Festival+United+Lyon-2026-Lyon-France-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-03-04",
+        "end": "2027-03-07",
+        "source": "https://where-to-dance-salsa.com/festivals/lyon/brazilian-dance-festival/"
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://www.braziliandancefestival.com",
+    "facebook_event_latest": "https://www.facebook.com/events/1771017723679966",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/braziliandancefestival",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "camargue-bachata-zouk-festival",
+    "name": "Camargue Bachata Zouk Festival",
+    "city": "Saint-Laurent-d'Aigouze",
+    "country": "France",
+    "style": "mixed",
+    "editions": {
+      "2025": {
+        "start": "2025-06-13",
+        "end": "2025-06-16",
+        "source": "https://www.danceplace.com/index/no/15505/Camargue+Bachata+Zouk+Festival-2025-Saint-Laurent-d~Aigouze-France-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-06-19",
+        "end": "2026-06-22",
+        "source": "https://www.danceplace.com/index/no/17128/Camargue+Bachata+Zouk+Festival-2026-Saint-Laurent-d~Aigouze-France-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://www.helloasso.com/associations/event-dance/evenements/camargue-bachata-zouk-festival-2025",
+    "facebook_event_latest": "https://www.facebook.com/events/813292148361613",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/camarguebachatazoukfestival",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "international-bachata-zouk-festival",
+    "name": "International Bachata Zouk Festival",
+    "city": "Vitry-sur-Seine (Paris)",
+    "country": "France",
+    "style": "mixed",
+    "editions": {
+      "2026": {
+        "start": "2026-11-26",
+        "end": "2026-11-30",
+        "source": "https://www.danceplace.com/index/no/17276/International+Bachata+Zouk+Festival-2026-PARIS+-France-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected (2026 edition not yet held)",
+    "website": null,
+    "facebook_event_latest": "https://facebook.com/events/s/-international-bachata-zouk-fe/2082640905613312",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/ibzf_paris",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "lambazouk-paris",
+    "name": "LambaZouk Paris",
+    "city": "Paris",
+    "country": "France",
+    "style": "bz+lambada",
+    "editions": {
+      "2025": {
+        "start": "2025-10-17",
+        "end": "2025-10-19",
+        "source": "https://www.danceplace.com/index/no/15401/LambaZouk+Paris-2025-Paris-France-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "announced (dates TBC)",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/247904804688395",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/lambazouk_paris",
+    "last_checked": "2026-11-10",
+    "note_2027": "IG bio: \"TO BE CONFIRMED · 4th Edition 2027\" — announced, no dates."
+  },
+  {
+    "id": "lyon-zouk-festival-lzf",
+    "name": "Lyon Zouk Festival (LZF)",
+    "city": "Chassieu (Lyon)",
+    "country": "France",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-05-08",
+        "end": "2026-05-10",
+        "source": "https://www.danceplace.com/index/no/16580/Lyon+Zouk+Festival-2026-Chassieu-France-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "likely cancelled",
+    "website": "http://lyonzoukfestival.fr/",
+    "facebook_event_latest": "https://www.facebook.com/events/s/lyon-zouk-festival/2267254763741361",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/lyonzoukfestival",
+    "last_checked": "2026-11-10",
+    "note_2027": "Organizer site feed shows a newer post \"No edition for 2027\" (⚠️ important update) after earlier posts promoting May 29, 2027 blind passes. Confirm on Instagram."
+  },
+  {
+    "id": "paris-afro-latin-congress-palc",
+    "name": "Paris Afro Latin Congress (PALC)",
+    "city": "Roissy-en-France",
+    "country": "France",
+    "style": "mixed",
+    "editions": {
+      "2026": {
+        "start": "2026-03-20",
+        "end": "2026-03-23",
+        "source": "https://www.goandance.com/en/event/8467/paris-afro-latin-congress-2026-carnival-edition"
+      },
+      "2027": {
+        "start": "2027-03-19",
+        "end": "2027-03-22",
+        "source": "https://salsero.es/events/10782/paris-afro-latin-congress-2027-deluxe-edition"
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/parisafrolatincongress",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "zouk-hybride-festival",
+    "name": "Zouk Hybride Festival",
+    "city": "Paris",
+    "country": "France",
+    "style": "bz+lambada",
+    "editions": {
+      "2026": {
+        "start": "2026-06-12",
+        "end": "2026-06-14",
+        "source": "https://www.danceplace.com/index/no/16039/Zouk+Hybride+Festival-2026-Paris-France-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-06-11",
+        "end": "2027-06-14",
+        "source": "https://www.danceplace.com/index/no/17229/Zouk+Hybride+Festival-2027-Paris-France-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": "https://www.facebook.com/p/Zouk-Hybride-Paris-61554419374701",
+    "instagram": "https://www.instagram.com/zoukhybrideparis",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "zouk-infinity-paris-festival",
+    "name": "Zouk Infinity Paris Festival",
+    "city": "Paris",
+    "country": "France",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": null,
+        "end": null,
+        "source": "https://zoukology.com/events/zouk-infinity-paris-festival/"
+      }
+    },
+    "status_2027": "unknown (no 2026 edition found)",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "zouktown-festival",
+    "name": "Zouktown Festival",
+    "city": "Chassieu (Lyon)",
+    "country": "France",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-05-15",
+        "end": "2025-05-18",
+        "source": "https://www.danceplace.com/index/no/14874/Zouktown+Festival-2025-Lyon+-+Chassieu-France-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "unknown (no 2026 edition found)",
+    "website": "https://www.helloasso.com/associations/bachatown/evenements/zouktown-festival-2025",
+    "facebook_event_latest": "https://www.facebook.com/events/1070783344430472",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zouktown_events",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "big3-festival",
+    "name": "BIG3 Festival",
+    "city": "Hamburg",
+    "country": "Germany",
+    "style": "mixed",
+    "editions": {
+      "2027": {
+        "start": "2027-02-19",
+        "end": "2027-02-21",
+        "source": "https://www.danceplace.com/index/no/17036/Big+3+Festival-2027-Hamburg-Germany-Bachata+Dance+event"
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://big3festival.com",
+    "facebook_event_latest": "https://www.facebook.com/events/962095250012629",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/big3festival",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "bachata-zouk-royals",
+    "name": "Bachata Zouk Royals",
+    "city": "Freiburg",
+    "country": "Germany",
+    "style": "mixed",
+    "editions": {
+      "2025": {
+        "start": "2025-10-24",
+        "end": "2025-10-27",
+        "source": "https://www.danceplace.com/index/no/14659/Bachata+Zouk+Royals+-2025-Freiburg+-Germany-Bachata+Dance+event"
+      },
+      "2026": {
+        "start": "2026-12-11",
+        "end": "2026-12-13",
+        "source": "https://www.danceplace.com/index/no/16265/Bachata+Zouk+Royals-2026-Freiburg+-Germany-Bachata+Dance+event"
+      }
+    },
+    "status_2027": "expected (2026 edition not yet held)",
+    "website": "https://www.goandance.com/en/events/6476-bachata-zouk-royals",
+    "facebook_event_latest": "https://www.facebook.com/events/4312856815699998",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/bachatazoukroyals",
+    "last_checked": "2026-11-10",
+    "note_2027": "June 2026 IG posts say \"December 11–13, 2027\" but bio says 11–13 Dec 2026 — almost certainly a typo for 2026, not a 2027 announcement."
+  },
+  {
+    "id": "bachazouk-festival-germany",
+    "name": "Bachazouk Festival Germany",
+    "city": "Freiburg (prev. Frankfurt)",
+    "country": "Germany",
+    "style": "bachazouk",
+    "editions": {
+      "2027": {
+        "start": "2027-03-05",
+        "end": "2027-03-07",
+        "source": "https://latindancecalendar.com/festivals/bachazouk-festival-germany/"
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": "https://facebook.com/events/879214963801744",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/bachazoukfestival_germany",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "bachazouk-wave",
+    "name": "Bachazouk Wave",
+    "city": "Böblingen (Stuttgart)",
+    "country": "Germany",
+    "style": "bachazouk",
+    "editions": {
+      "2027": {
+        "start": "2027-04-02",
+        "end": "2027-04-04",
+        "source": "https://salsero.es/events/10786/bachazouk-wave"
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/bachazoukwave",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "berlin-lambada-festival",
+    "name": "Berlin Lambada Festival",
+    "city": "Berlin",
+    "country": "Germany",
+    "style": "lambada",
+    "editions": {
+      "2025": {
+        "start": "2025-04-18",
+        "end": "2025-04-20",
+        "source": "https://www.danceplace.com/index/no/14384/Berlin+Lambada+Festival-2025-Berlin-Germany-Lambada+Dance+event"
+      },
+      "2026": {
+        "start": "2026-05-29",
+        "end": "2026-05-31",
+        "source": "https://www.danceplace.com/index/no/15345/Berlin+Lambada+Festival-2026-Berlin-Germany-Lambada+Dance+event"
+      },
+      "2027": {
+        "start": "2027-05-21",
+        "end": "2027-05-23",
+        "source": "https://lambadaberlin.com/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://lambadaberlin.com/",
+    "facebook_event_latest": "https://www.facebook.com/events/1058178855856502",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/berlinzouklambada.united",
+    "last_checked": "2026-11-10",
+    "note_2027": "Organizer site: 3rd edition; tickets via berlinlambadafestival.com."
+  },
+  {
+    "id": "bonn-soulzouk-festival",
+    "name": "Bonn SoulZouk Festival",
+    "city": "Bonn",
+    "country": "Germany",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-07-31",
+        "end": "2025-08-03",
+        "source": "https://www.danceplace.com/index/no/15641/Bonn+SoulZouk+Festival-2025-Bonn-Germany-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-07-30",
+        "end": "2026-08-02",
+        "source": "https://where-to-dance-salsa.com/festivals/bonn/bonn-soulzouk-festival-2026/"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://zoukernatural.de/index.php/soulzouk-festival-2025/",
+    "facebook_event_latest": "https://www.facebook.com/events/513031678272692",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zoukernatural",
+    "last_checked": "2026-11-10",
+    "note_2027": "No 2027 found (organizer site, nothing for 2027, checked 2026-11-10)."
+  },
+  {
+    "id": "brazouky-germany-worldwide-brazilian-dance-festival",
+    "name": "BraZouky Germany – Worldwide Brazilian Dance Festival",
+    "city": "Munich",
+    "country": "Germany",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-10-09",
+        "end": "2025-10-12",
+        "source": "https://www.danceplace.com/index/no/14210/BraZouky+Germany+_+Worldwide+Brazilian+Dance+Festival-2025-Heßstraße+48b_+80798+München-Germany-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "unknown (no 2026 edition found)",
+    "website": "https://www.brazouky.com",
+    "facebook_event_latest": null,
+    "facebook_page": "https://www.facebook.com/brazouky.germany",
+    "instagram": "https://www.instagram.com/brazouky.germany",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "cologne-zouk-festival-german-open-championship",
+    "name": "Cologne Zouk Festival – German Open Championship",
+    "city": "Cologne (Hürth)",
+    "country": "Germany",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-06-04",
+        "end": "2025-06-09",
+        "source": "https://www.danceplace.com/index/no/15090/Cologne+Zouk+Festival+_++German+Open+Championship-2025-Cologne-Germany-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-04-08",
+        "end": "2026-04-12",
+        "source": "https://www.danceplace.com/index/no/16764/Cologne+Zouk+Festival+_++German+Open+Championship-2026-Cologne-Germany-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-05-12",
+        "end": "2027-05-17",
+        "source": "https://www.tickettailor.com/events/zoukcgn/2324705"
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/677997431775402",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zoukcologne",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "essential-rhythm-zouk-festival-new-year",
+    "name": "Essential Rhythm Zouk Festival (New Year)",
+    "city": "Erfurt",
+    "country": "Germany",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-12-31",
+        "end": "2026-01-04",
+        "source": "https://www.danceplace.com/index/no/15838/Essential+Rhythm+Zouk+Festival-2025-Erfurt-Germany-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-12-31",
+        "end": "2027-01-04",
+        "source": "https://www.danceplace.com/index/no/16911/Essential+Rhythm+Zouk+Festival-2026-Erfurt-Germany-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected (2026 edition not yet held)",
+    "website": "https://www.essential-rhythm.de/",
+    "facebook_event_latest": null,
+    "facebook_page": "https://www.facebook.com/profile.php?id=100083342950642",
+    "instagram": "https://www.instagram.com/essential_rhythm_erfurt",
+    "last_checked": "2026-11-10",
+    "note_2027": "The 2026/27 New Year edition (31 Dec 2026–3 Jan 2027) is the one recorded as 2026."
+  },
+  {
+    "id": "forrozin-festiv-all",
+    "name": "Forrozin Festiv-all",
+    "city": "Freiburg",
+    "country": "Germany",
+    "style": "mixed",
+    "editions": {
+      "2026": {
+        "start": "2026-02",
+        "end": null,
+        "source": "https://forrozinfreiburg.de/event/festiv-all-3"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://forrozinfreiburg.de",
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/forrozin_freiburg",
+    "last_checked": "2026-11-10",
+    "note_2027": "No 2027 found (organizer site, nothing for 2027, checked 2026-11-10)."
+  },
+  {
+    "id": "freiburg-zouk-festival-marathon",
+    "name": "Freiburg Zouk Festival & Marathon",
+    "city": "Freiburg",
+    "country": "Germany",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-04-11",
+        "end": "2025-04-13",
+        "source": "https://www.danceplace.com/index/no/14929/Freiburg+Zouk+Festival+_+Marathon-2025-Freiburg-Germany-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "unknown (no 2026 edition found)",
+    "website": "https://zoukarium.com/fzfm25",
+    "facebook_event_latest": "https://www.facebook.com/events/755533193442900",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zoukarium",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "hamburg-zouk-festival",
+    "name": "Hamburg Zouk Festival",
+    "city": "Hamburg",
+    "country": "Germany",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-12-04",
+        "end": "2025-12-07",
+        "source": "https://www.danceplace.com/index/no/14845/Hamburg+Zouk+Festival-2025-Hamburg-Germany-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-12-03",
+        "end": "2026-12-06",
+        "source": "https://www.danceplace.com/index/no/16875/Hamburg+Zouk+Festival-2026-Hamburg-Germany-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-12-02",
+        "end": "2027-12-05",
+        "source": "https://www.instagram.com/hamburg.zoukfestival/p/DfahAmTgUR_/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/1208556806812021",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/hamburg.zoukfestival",
+    "last_checked": "2026-11-10",
+    "note_2027": "Dates read from the flyer image (2-5.12.2027), branded Zouk Emotion Hamburg."
+  },
+  {
+    "id": "leo-cibele-brazilian-zouk-weekender",
+    "name": "Leo & Cibele Brazilian Zouk Weekender",
+    "city": "Erfurt",
+    "country": "Germany",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-06-26",
+        "end": "2026-06-28",
+        "source": "https://www.danceplace.com/index/no/17150/Leo+_+Cibele+Brazilian+Zouk+Weekender-2026-Erfurt-Germany-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://tinyurl.com/LeoCibele2026Erfurt",
+    "facebook_event_latest": "https://www.facebook.com/events/s/leo-cibele-brazilian-zouk-week/1676539453492268",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/feelslikezouk",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "salsakizzes-zouk-festival",
+    "name": "SalsaKizzes & Zouk Festival",
+    "city": "Freiburg",
+    "country": "Germany",
+    "style": "mixed",
+    "editions": {
+      "2026": {
+        "start": "2026-11-13",
+        "end": "2026-11-15",
+        "source": "https://www.danceplace.com/index/no/16909/SalsaKizzes+_+Zouk+Festival-2026-Freiburg-Germany-Salsa+Dance+event"
+      }
+    },
+    "status_2027": "expected (2026 edition not yet held)",
+    "website": "https://www.gone-dancing.com/de/veranstaltungen/festival/salsakizzes-zouk-festival-in-freiburg/tickets/",
+    "facebook_event_latest": "https://www.facebook.com/events/s/salsakizzes-zouk-festival-in-f/2854552248226402",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/sbk_zouk_festival",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "xplosion-berlin-zouk-festival",
+    "name": "Xplosion Berlin Zouk Festival",
+    "city": "Berlin",
+    "country": "Germany",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-08-01",
+        "end": "2025-08-03",
+        "source": "https://www.danceplace.com/index/no/14235/Berlin+Zouk+Festival-2025-Berlin-Germany-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-07-31",
+        "end": "2026-08-02",
+        "source": "https://www.danceplace.com/index/no/15708/Xplosion+Berlin+Zouk+Festival-2026-Berlin-Germany-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-07-30",
+        "end": "2027-08-01",
+        "source": "https://www.danceplace.com/index/no/17352/Xplosion+Berlin+Zouk+Festival-2027-Berlin-Germany-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://www.berlinzoukfestival.com",
+    "facebook_event_latest": "https://www.facebook.com/events/1897079974467729",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/berlinzoukfestival",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "zrmn-brazilian-zouk-festival",
+    "name": "ZRMN Brazilian Zouk Festival",
+    "city": "Darmstadt",
+    "country": "Germany",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-05-01",
+        "end": "2025-05-04",
+        "source": "https://www.zouk-rmn.de/en/zrmn-brazilian-zouk-festival-2025-2/"
+      }
+    },
+    "status_2027": "unknown (no 2026 edition found)",
+    "website": "https://www.zouk-rmn.de",
+    "facebook_event_latest": "https://www.facebook.com/events/439178542089200",
+    "facebook_page": "https://www.facebook.com/zoukrmn",
+    "instagram": null,
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "zouk-cologne-lambada-summer-festival",
+    "name": "Zouk Cologne Lambada Summer Festival",
+    "city": "Cologne",
+    "country": "Germany",
+    "style": "lambada",
+    "editions": {
+      "2025": {
+        "start": "2025-08-29",
+        "end": "2025-08-31",
+        "source": "https://www.danceplace.com/index/no/15435/+Zouk+Cologne+Lambada+Summer+Experience-2025-Cologne-Germany-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-08-14",
+        "end": "2026-08-16",
+        "source": "https://www.danceplace.com/index/no/17369/+Zouk+Cologne+Lambada+Summer+Festival-2026-Cologne-Germany-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-08-13",
+        "end": "2027-08-15",
+        "source": "https://www.instagram.com/zoukcologne/p/DcOnLCwNXRe/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://www.tanzschule-tanzraum.de/",
+    "facebook_event_latest": "https://www.facebook.com/events/622575207041384",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zoukcologne",
+    "last_checked": "2026-11-10",
+    "note_2027": "Posted as \"Cologne Lambada Summer Festival 2027 by Sonja & Julinha\"."
+  },
+  {
+    "id": "zouk-family-meeting",
+    "name": "Zouk Family Meeting",
+    "city": "Dresden",
+    "country": "Germany",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-10-31",
+        "end": "2025-11-02",
+        "source": "https://www.danceplace.com/index/no/15318/Zouk+Family+Meeting-2025+_+D__a+de+los+muertos-Dresden-Germany-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-11-06",
+        "end": "2026-11-08",
+        "source": "https://www.danceplace.com/index/no/16553/Zouk+Family+Meeting-2026+_+Turns+in+Golden+Leaves-Dresden-Germany-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://www.zouk-dresden.de/zouk-family-meeting-dia-de-los-muertos/",
+    "facebook_event_latest": null,
+    "facebook_page": "https://www.facebook.com/ZoukDresden",
+    "instagram": "https://www.instagram.com/zoukdresden",
+    "last_checked": "2026-11-10",
+    "note_2027": "No 2027 found (organizer site, nothing for 2027, checked 2026-11-10)."
+  },
+  {
+    "id": "zouk-festival-hannover",
+    "name": "Zouk Festival Hannover",
+    "city": "Hannover",
+    "country": "Germany",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-09-04",
+        "end": "2025-09-08",
+        "source": "https://www.danceplace.com/index/no/13973/Zouk+Festival+Hannover-2025-Hannover-Germany-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-09-03",
+        "end": "2026-09-07",
+        "source": "https://www.danceplace.com/index/no/15824/Zouk+Festival+Hannover-2026-Hannover-Germany-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-09-02",
+        "end": "2027-09-06",
+        "source": "https://www.instagram.com/zouk_festival_hannover/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://www.zoukfestivalhannover.com",
+    "facebook_event_latest": "https://www.facebook.com/events/1040440587407063",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zouk_festival_hannover",
+    "last_checked": "2026-11-10",
+    "note_2027": "From organizer IG bio."
+  },
+  {
+    "id": "zoukbest",
+    "name": "ZoukBest",
+    "city": "Cologne",
+    "country": "Germany",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-07-04",
+        "end": "2025-07-06",
+        "source": "https://www.danceplace.com/index/no/14913/ZoukBest-2025-Cologne-Germany-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "unknown (no 2026 edition found)",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/1316972409429052",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zouk.best",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "summer-zouk-greece",
+    "name": "Summer Zouk Greece",
+    "city": "Vourvourou",
+    "country": "Greece",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-05-30",
+        "end": "2025-06-02",
+        "source": "https://www.danceplace.com/index/no/14934/Summer+Zouk+Greece-2025-Vourvourou-Greece-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "unknown (no 2026 edition found)",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/1100668181453616",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/thess_zouk",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "dance-casa-festival",
+    "name": "Dance Casa Festival",
+    "city": "Budapest",
+    "country": "Hungary",
+    "style": "mixed",
+    "editions": {
+      "2026": {
+        "start": "2026-08-27",
+        "end": "2026-08-31",
+        "source": "https://www.danceplace.com/index/no/15997/Dance+Casa+Festival-2026-budapest-Hungary-Bachata+Dance+event"
+      },
+      "2027": {
+        "start": "2027-09-24",
+        "end": "2027-09-27",
+        "source": "https://www.goandance.com/en/event/9797/dance-casa-festival-2027"
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://dancecasa.com",
+    "facebook_event_latest": "https://www.facebook.com/events/813006214551887",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/dancecasafest",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "zouk-lambada-fever-festival",
+    "name": "Zouk (Lambada) Fever Festival",
+    "city": "Budapest",
+    "country": "Hungary",
+    "style": "bz+lambada",
+    "editions": {
+      "2025": {
+        "start": "2025-05-09",
+        "end": "2025-05-11",
+        "source": "https://www.danceplace.com/index/no/14420/Zouk+Fever+Festival-2025-Budapest-Hungary-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-05-08",
+        "end": "2026-05-10",
+        "source": "https://www.danceplace.com/index/no/16964/Zouk+Fever+Festival-2026-Budapest-Hungary-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-04-30",
+        "end": "2027-05-02",
+        "source": "https://www.danceplace.com/index/no/17998/Zouk+Lambada+Fever+Budapest+Festival-2027-Budapest-Hungary-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": "https://facebook.com/events/s/12th-zouk-lambada-fever-budape/2070575700302485",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zoukfeverevents",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "dublin-zouk-fest",
+    "name": "Dublin Zouk Fest",
+    "city": "Dublin",
+    "country": "Ireland",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-05-07",
+        "end": "2026-05-10",
+        "source": "https://www.danceplace.com/index/no/16168/Dublin+Zouk+Fest-2026-Dublin+-Ireland-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/1170381334642255",
+    "facebook_page": null,
+    "instagram": "http://www.instagram.com/dublinzoukfest",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "italia-zouk-experience",
+    "name": "Italia Zouk Experience",
+    "city": "Venice",
+    "country": "Italy",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-03-27",
+        "end": "2026-03-29",
+        "source": "https://oooh.events/en/?p=407473"
+      },
+      "2027": {
+        "start": "2027-03-19",
+        "end": "2027-03-21",
+        "source": "https://www.imperozouk.com/sharome.html",
+        "confirmed_by_organizer": true,
+        "city": "Verona"
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/italiazouk",
+    "last_checked": "2026-11-10",
+    "note_2027": "2027 edition is in Verona (2026 was Venice), per combo pass on the SHARomE organizer page."
+  },
+  {
+    "id": "sharome-brazilian-zouk-festival",
+    "name": "SHARomE Brazilian Zouk Festival",
+    "city": "Rome",
+    "country": "Italy",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-10-03",
+        "end": "2025-10-05",
+        "source": "https://www.danceplace.com/index/no/14738/Sharome+2025+Brazilian+Zouk+Festival+with+Bruno+_+Raiza+and+other+Artists-2025-Roma-Italy-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-10-16",
+        "end": "2026-10-18",
+        "source": "https://www.danceplace.com/index/no/17286/Sharome+Festival+With+Iago+_+Vanessa+And+Other+Artists-2026-Roma-Italy-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://www.imperozouk.com/sharome.html",
+    "facebook_event_latest": "https://www.facebook.com/events/1415626516233174",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/impero.zouk.rome",
+    "last_checked": "2026-11-10",
+    "note_2027": "No 2027 found (organizer site lists only 2026, checked 2026-11-10)."
+  },
+  {
+    "id": "zouk-cruise-holiday",
+    "name": "Zouk Cruise Holiday",
+    "city": "Savona (cruise)",
+    "country": "Italy",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-04-15",
+        "end": "2025-04-19",
+        "source": "https://www.danceplace.com/index/no/14914/Zouk+Cruise+Holiday-2025-Savona-Italy-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "unknown (no 2026 edition found)",
+    "website": "https://www.carlosfernanda.com/zoukcruise",
+    "facebook_event_latest": "https://www.facebook.com/events/487729310758826",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zoukcruise",
+    "last_checked": "2026-11-10",
+    "note_2027": "IG bio: next cruise January 2027 is in South America (Brazil/Argentina/Uruguay), not Europe."
+  },
+  {
+    "id": "zouk-wave-vilnius",
+    "name": "Zouk Wave Vilnius",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-02-21",
+        "end": "2025-02-23",
+        "source": "https://www.danceplace.com/index/no/14436/Zouk+Wave+Vilnius-2025-Vilnius-Lithuania-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "unknown (no 2026 edition found)",
+    "website": "https://www.zoukwave.lt",
+    "facebook_event_latest": "https://www.facebook.com/events/848489240697495",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zoukwavevilnius",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "zouk-me-marathon",
+    "name": "Zouk.Me Marathon",
+    "city": "Budva",
+    "country": "Montenegro",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-05-28",
+        "end": "2025-06-01",
+        "source": "https://www.danceplace.com/index/no/14675/Zouk_Me+Marathon+-2025-Budva-Montenegro-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "unknown (no 2026 edition found)",
+    "website": "https://www.zouklab.be",
+    "facebook_event_latest": "https://www.facebook.com/events/469360232607876",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zouklab",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "adam-zouk-festival",
+    "name": "Adam Zouk Festival",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-09-11",
+        "end": "2026-09-14",
+        "source": "https://www.danceplace.com/index/no/16865/Adam+Zouk+Festival-2026-Amsterdam-Netherlands-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://www.adamzoukfestival.com",
+    "facebook_event_latest": "https://www.facebook.com/events/1617731699460633",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/adamzoukfestival",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "brazilian-dance-festival-holland",
+    "name": "Brazilian Dance Festival Holland",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "style": "bz+lambada",
+    "editions": {
+      "2025": {
+        "start": "2025-03-06",
+        "end": "2025-03-10",
+        "source": "https://www.danceplace.com/index/no/14514/Brazilian+Dance+Festival+Holland-2025-Isolatorweg+28_+1014+AS+Amsterdam-Netherlands-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "moved (now BDF United, France)",
+    "website": "http://www.braziliandancefestival.com",
+    "facebook_event_latest": "https://www.facebook.com/events/329993160055823",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/braziliandancefestival",
+    "last_checked": "2026-11-10",
+    "note_2027": "The organizer now runs BDF United near Lyon instead; see brazilian-dance-festival-united."
+  },
+  {
+    "id": "brazilian-dance-festival-united",
+    "name": "BDF United (Brazilian Dance Festival)",
+    "city": "Saint-Maurice-de-Beynost (Lyon)",
+    "country": "France",
+    "style": "bz+lambada",
+    "editions": {
+      "2027": {
+        "start": "2027-03-04",
+        "end": "2027-03-07",
+        "source": "https://www.instagram.com/braziliandancefestival/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://www.braziliandancefestival.com",
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/braziliandancefestival",
+    "last_checked": "2026-11-10",
+    "note_2027": "Brazilian Zouk, Lambada & Samba de Gafieira. Venue: Logis Hôtel Lyon Est – Porte de l'Ain. Same organizer as the former Brazilian Dance Festival Holland."
+  },
+  {
+    "id": "castle-of-miracles",
+    "name": "Castle of Miracles",
+    "city": "Baarlo",
+    "country": "Netherlands",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-04-18",
+        "end": "2025-04-22",
+        "source": "https://www.danceplace.com/index/no/14583/Castle+of+Miracles-2025-Baarlo-Netherlands-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-04-03",
+        "end": "2026-04-07",
+        "source": "https://www.danceplace.com/index/no/16861/Castle+of+Miracles-2026-Baarlo-Netherlands-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-03-25",
+        "end": "2027-03-30",
+        "source": "https://www.zoukdreams.com",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://www.zoukdreams.com",
+    "facebook_event_latest": "https://www.facebook.com/events/1742923376344594",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zoukdreams",
+    "last_checked": "2026-11-10",
+    "note_2027": "Organizer site: 5th edition, Easter weekend."
+  },
+  {
+    "id": "dutch-international-zouk-congress",
+    "name": "Dutch International Zouk Congress",
+    "city": "Breda / Etten-Leur",
+    "country": "Netherlands",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-10-16",
+        "end": "2025-10-20",
+        "source": "https://www.danceplace.com/index/no/15845/Dutch+International+Zouk+Congress-2025-Breda-Netherlands-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-10-15",
+        "end": "2026-10-18",
+        "source": "https://www.danceplace.com/index/no/17814/Dutch+International+Zouk+Congress-2026-Breda-Netherlands-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "http://www.dutchzouk.nl",
+    "facebook_event_latest": "https://www.facebook.com/events/650745380557293",
+    "facebook_page": "https://www.facebook.com/dutchzoukcongress/",
+    "instagram": "https://www.instagram.com/dutch_zouk_congress_official",
+    "last_checked": "2026-11-10",
+    "note_2027": "No 2027 found (organizer site lists only 2026, checked 2026-11-10)."
+  },
+  {
+    "id": "zouk-origins",
+    "name": "Zouk Origins",
+    "city": "Nederweert-Eind",
+    "country": "Netherlands",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-05-23",
+        "end": "2025-05-25",
+        "source": "https://www.danceplace.com/index/no/14700/Zouk+Origins-2025-Nederweert-Eind-Netherlands-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "unknown (no 2026 edition found)",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zoukorigins",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "nordic-social-stars",
+    "name": "Nordic Social Stars",
+    "city": "Oslo",
+    "country": "Norway",
+    "style": "mixed",
+    "editions": {
+      "2027": {
+        "start": "2027-07-28",
+        "end": "2027-08-02",
+        "source": "https://www.salsavida.com/?p=64956"
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "nordic-zouk-festival",
+    "name": "Nordic Zouk Festival",
+    "city": "Oslo",
+    "country": "Norway",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-06-05",
+        "end": "2026-06-08",
+        "source": "https://www.goandance.com/en/event/8967/nordic-zouk-festival-2026"
+      }
+    },
+    "status_2027": "expected",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10",
+    "note_2027": "Possible successor: \"Nordic – Social Stars 2027\" (Bachata & Brazilian Zouk), Oslo, Sentralen, ~28 Jul–2 Aug 2027, same venue/organizer family (Nordic Bachata Congress). Not confirmed as the same event. https://www.salsavida.com/?p=68004"
+  },
+  {
+    "id": "katowice-zouk-meetup",
+    "name": "Katowice Zouk Meetup",
+    "city": "Katowice",
+    "country": "Poland",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-03-21",
+        "end": "2025-03-24",
+        "source": "https://www.danceplace.com/index/no/14577/Katowice+Zouk+Meetup-2025-Katowice-Poland-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-03-20",
+        "end": "2026-03-23",
+        "source": "https://www.danceplace.com/index/no/16712/Katowice+Zouk+Meetup-2026-Katowice-Poland-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-03-19",
+        "end": "2027-03-22",
+        "source": "https://www.instagram.com/katowicezoukmeetup/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/1293516161947230",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/katowicezoukmeetup",
+    "last_checked": "2026-11-10",
+    "note_2027": "IG bio save-the-date; 6th edition; FB event facebook.com/events/s/kzm-2027-katowice-zouk-meetup-/1672734477402013."
+  },
+  {
+    "id": "krak-w-zouk-fire",
+    "name": "Kraków Zouk Fire",
+    "city": "Kraków",
+    "country": "Poland",
+    "style": "bz",
+    "editions": {
+      "2027": {
+        "start": "2027-05-21",
+        "end": "2027-05-23",
+        "source": "https://www.danceplace.com/index/no/17279/Krak__w+Zouk+Fire-2027-Kraków-Poland-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/1331241925596020",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/krakowzoukfire",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "silesian-zouk-festival-marathon",
+    "name": "Silesian Zouk Festival & Marathon",
+    "city": "Katowice",
+    "country": "Poland",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-11-07",
+        "end": "2025-11-10",
+        "source": "https://www.danceplace.com/index/no/16165/Silesian+Zouk+Festival+_+Marathon-2025-Katowice-Poland-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-11-06",
+        "end": "2026-11-08",
+        "source": "https://www.danceplace.com/index/no/16166/Silesian+Zouk+Festival+_+Marathon-2026-Katowice-Poland-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "http://www.silesianzoukfestival.pl",
+    "facebook_event_latest": "https://www.facebook.com/events/1233903695443137",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/silesianzoukfestival",
+    "last_checked": "2026-11-10",
+    "note_2027": "No 2027 found (organizer site lists only 2026, checked 2026-11-10)."
+  },
+  {
+    "id": "warsaw-brasil-festival",
+    "name": "Warsaw Brasil Festival",
+    "city": "Warsaw",
+    "country": "Poland",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-10-03",
+        "end": "2025-10-05",
+        "source": "https://www.danceplace.com/index/no/14794/Warsaw+Brasil+Festival-2025-Warsaw-Poland-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-10-02",
+        "end": "2026-10-04",
+        "source": "https://www.danceplace.com/index/no/15926/Warsaw+Brasil+Festival-2026-Warsaw-Poland-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-10-01",
+        "end": "2027-10-03",
+        "source": "https://www.danceplace.com/index/no/17868/Warsaw+Brasil+Festival-2027-Warsaw-Poland-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/1270743921406345",
+    "facebook_page": null,
+    "instagram": "https://https:/www./instagram.com/warsawbrasilevents",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "warsaw-brasil-marathon",
+    "name": "Warsaw Brasil Marathon",
+    "city": "Warsaw",
+    "country": "Poland",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-08-15",
+        "end": "2025-08-18",
+        "source": "https://www.danceplace.com/index/no/14928/Warsaw+Brasil+Marathon-2025-Warsaw-Poland-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "unknown (no 2026 edition found)",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/1207062160417160",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/warsaw_brasil_marathon",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "warsaw-zouk-festival-marathon",
+    "name": "Warsaw Zouk Festival & Marathon",
+    "city": "Warsaw",
+    "country": "Poland",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-02-12",
+        "end": "2025-02-17",
+        "source": "https://www.danceplace.com/index/no/14005/Warsaw+Zouk+Festival+_+Marathon-2025-Warsaw-Poland-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-02-12",
+        "end": "2026-02-16",
+        "source": "https://www.danceplace.com/index/no/14736/Warsaw+Zouk+Festival+_+Marathon-2026-Warsaw-Poland-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-02-11",
+        "end": "2027-02-15",
+        "source": "https://www.danceplace.com/index/no/17539/Warsaw+Zouk+Festival+_+Marathon-2027-Warsaw-Poland-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "listed",
+    "website": "http://www.zoukfestival.pl",
+    "facebook_event_latest": "https://www.facebook.com/events/2199390396917833",
+    "facebook_page": "https://www.facebook.com/WarsawZoukFestival",
+    "instagram": "https://www.instagram.com/warsawzoukfestival",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "zouk-diverse-marathon",
+    "name": "Zouk Diverse Marathon",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-07-17",
+        "end": "2025-07-21",
+        "source": "https://www.danceplace.com/index/no/15570/Zouk+Diverse+Marathon-2025-Gdansk+-Poland-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-07-16",
+        "end": "2026-07-20",
+        "source": "https://www.danceplace.com/index/no/17233/Zouk+Diverse+Marathon-2026-Gdansk+-Poland-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://zoukdiverse.com/events",
+    "facebook_event_latest": "https://www.facebook.com/events/24327449350275630",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zoukdiverse",
+    "last_checked": "2026-11-10",
+    "note_2027": "No 2027 found (organizer site stale, checked 2026-11-10)."
+  },
+  {
+    "id": "lambada-surf-yoga",
+    "name": "Lambada Surf & Yoga",
+    "city": "Peniche",
+    "country": "Portugal",
+    "style": "lambada",
+    "editions": {
+      "2026": {
+        "start": "2026-10-15",
+        "end": "2026-10-22",
+        "source": "https://global-dance-finder-astro.pages.dev/festivals/peniche/lambada-surf-yoga/"
+      }
+    },
+    "status_2027": "expected",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "lisbon-weekendance-festival",
+    "name": "Lisbon Weekendance Festival",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "style": "bz+lambada",
+    "editions": {
+      "2025": {
+        "start": "2025-06-27",
+        "end": "2025-06-29",
+        "source": "https://www.danceplace.com/index/no/13966/Lisbon+Weekendance+Festival-2025-Lisboa-Portugal-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-05-22",
+        "end": "2026-05-25",
+        "source": "https://www.danceplace.com/index/no/15494/Lisbon+Weekendance+Festival-2026-Lisboa-Portugal-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-11-19",
+        "end": "2027-11-22",
+        "source": "https://www.danceplace.com/index/no/17050/Lisbon+Weekendance+Festival-2027-Lisboa-Portugal-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/603999515183942",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/lisbonweekendance",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "lisbon-zouk-marathon",
+    "name": "Lisbon Zouk Marathon",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-03-26",
+        "end": "2025-03-31",
+        "source": "https://www.danceplace.com/index/no/14904/Lisbon+Zouk+Marathon-2025-Lisbon-Portugal-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-03-25",
+        "end": "2026-03-29",
+        "source": "https://www.danceplace.com/index/no/16717/Lisbon+Zouk+Marathon-2026-Lisbon-Portugal-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://www.lisbonzoukmarathon.com/",
+    "facebook_event_latest": "https://www.facebook.com/events/1405067020848769",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/lisbonzoukmarathon",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "portugal-brazilian-zouk-festival",
+    "name": "Portugal Brazilian Zouk Festival",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-10-23",
+        "end": "2025-10-26",
+        "source": "https://www.danceplace.com/index/no/14313/Portugal+Brazilian+Zouk+Festival-2025-Lisbon-Portugal-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "unknown (no 2026 edition found)",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/1702487960090173",
+    "facebook_page": null,
+    "instagram": "http://www.instagram.com/portugalzoukfestival",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "surfnzouk-peniche",
+    "name": "SurfnZouk Peniche",
+    "city": "Peniche",
+    "country": "Portugal",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-05-07",
+        "end": "2026-05-11",
+        "source": "https://www.danceplace.com/index/no/16276/SurfnZouk+Peniche-2026-Peniche+-Portugal-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/891623286522359",
+    "facebook_page": null,
+    "instagram": "https://instagram.com/surfnzouk",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "zoukizomba-congress",
+    "name": "Zoukizomba Congress",
+    "city": "Vila Nova de Gaia",
+    "country": "Portugal",
+    "style": "mixed",
+    "editions": {
+      "2025": {
+        "start": "2025-02-27",
+        "end": "2025-03-02",
+        "source": "https://www.danceplace.com/index/no/14429/Zoukizomba+Congress-2025-Vila+Nova+de+Gaia-Portugal-Kizomba+Dance+event"
+      },
+      "2027": {
+        "start": "2027-02-26",
+        "end": "2027-03-01",
+        "source": "https://www.goandance.com/es/evento/10025/zoukizomba-congres-zksb-2027",
+        "confirmed_by_organizer": true,
+        "city": "Caldas de Reis",
+        "country": "Spain"
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://www.goandance.com/es/eventos/7484-zoukizomba-congres-zksb",
+    "facebook_event_latest": "https://www.facebook.com/events/s/xº-zoukizomba-congres-sb/497670972879546",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zoukizomba.congres.zkbs",
+    "last_checked": "2026-11-10",
+    "note_2027": "Organizer IG bio links this listing. 2027 is in Caldas de Reis, Galicia, Spain (Hotel Sena); 2025 was in Vila Nova de Gaia."
+  },
+  {
+    "id": "nice-cozy-zouk-lambada-dance-travel",
+    "name": "Nice & Cozy Zouk & Lambada – Dance & Travel",
+    "city": "Timișoara",
+    "country": "Romania",
+    "style": "bz+lambada",
+    "editions": {
+      "2025": {
+        "start": "2025-05-23",
+        "end": "2025-05-26",
+        "source": "https://www.danceplace.com/index/no/14683/9th+Nice+_+Cozy+Zouk+_+Lambada+_+Dance+_+Travel-2025-TIMISOARA-Romania-Lambada+Dance+event"
+      }
+    },
+    "status_2027": "unknown (no 2026 edition found)",
+    "website": "http://mondy.ro",
+    "facebook_event_latest": "https://www.facebook.com/events/2864419743706029",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/niceandcozyfestival",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "transylvania-zouk-festival",
+    "name": "Transylvania Zouk Festival",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-11-27",
+        "end": "2025-12-01",
+        "source": "https://www.danceplace.com/index/no/16216/Transylvania+Zouk+Festival+by+BAILArte-2025-Cluj-Napoca-Romania-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-11-26",
+        "end": null,
+        "source": "https://events.zoukology.com/event/transylvania-zouk-festival-2026"
+      }
+    },
+    "status_2027": "expected (2026 edition not yet held)",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/1133503011289400",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/transylvaniazoukevents",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "brazuka-dance-festival",
+    "name": "Brazuka Dance Festival",
+    "city": "Moscow",
+    "country": "Russia",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-11-01",
+        "end": "2025-11-04",
+        "source": "https://www.danceplace.com/index/no/16184/Brazuka+Dance+Festival-2025-Moscow-Russian+Federation-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-11-04",
+        "end": "2026-11-08",
+        "source": "https://www.danceplace.com/index/no/17984/Brazuka+Dance+Festival-2026-Moscow-Russian+Federation-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://vk.com/brazukadancefestival",
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "russian-zouk-congress-championship",
+    "name": "Russian Zouk Congress & Championship",
+    "city": "St Petersburg",
+    "country": "Russia",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-07-30",
+        "end": "2025-08-06",
+        "source": "https://www.danceplace.com/index/no/15693/Russian+Zouk+Congress+_+Championship-2025-St.Petersburg-Russian+Federation-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-08-06",
+        "end": "2026-08-10",
+        "source": "https://www.danceplace.com/index/no/17301/Russian+Zouk+Congress+_+Championship-2026-St.Petersburg-Russian+Federation-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://russianzoukcongress.com/",
+    "facebook_event_latest": null,
+    "facebook_page": "https://www.facebook.com/russianzoukcongress",
+    "instagram": "https://www.instagram.com/russianzoukcongress",
+    "last_checked": "2026-11-10",
+    "note_2027": "No 2027 found (organizer site stale (2022), checked 2026-11-10)."
+  },
+  {
+    "id": "volga-flow-festival",
+    "name": "Volga Flow Festival",
+    "city": "Ulyanovsk",
+    "country": "Russia",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-04-18",
+        "end": "2026-04-18",
+        "source": "https://www.danceplace.com/index/no/17174/Volga+Flow+Festival-2026-Ulyanovsk-Russian+Federation-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://vk.ru/latino_kvartal_73",
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/latino_kvartal_73",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "winter-zouk-fest-kazan",
+    "name": "Winter Zouk Fest Kazan",
+    "city": "Kazan",
+    "country": "Russia",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-01-03",
+        "end": "2025-01-05",
+        "source": "https://www.danceplace.com/index/no/14655/Winter+Zouk+Fest-2025-Kazan-Russian+Federation-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "unknown (no 2026 edition found)",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "zouk-one-love",
+    "name": "Zouk One Love",
+    "city": "St Petersburg",
+    "country": "Russia",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-05-01",
+        "end": "2025-05-04",
+        "source": "https://www.danceplace.com/index/no/15116/Zouk+One+Love-2025-Saint+Petersburg-Russian+Federation-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-04-30",
+        "end": "2026-05-03",
+        "source": "https://www.danceplace.com/index/no/16915/Zouk+One+Love-2026-Saint+Petersburg-Russian+Federation-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://vk.com/zoukonelove",
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zoukonelove",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "zvuki-zouka",
+    "name": "Zvuki Zouka",
+    "city": "Kazan",
+    "country": "Russia",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-07-09",
+        "end": "2026-07-12",
+        "source": "https://www.danceplace.com/index/no/17350/Zvuki+Zouka-2026-Kazan-Russian+Federation-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://vk.ru/zvukizouka",
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zvuki_zouka",
+    "last_checked": "2026-11-10",
+    "note_2027": "Recap reel uses #zvukizouka2027 — a 2027 edition is implied, no dates yet."
+  },
+  {
+    "id": "slovenian-zouk-marathon",
+    "name": "Slovenian Zouk Marathon",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "style": "bz",
+    "editions": {
+      "2027": {
+        "start": "2027-04-15",
+        "end": "2027-04-20",
+        "source": "https://www.danceplace.com/index/no/16320/Slovenian+Zouk+Marathon-2027-Ljubljana-Slovenia-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://slovenianzoukmarathon.com",
+    "facebook_event_latest": "https://facebook.com/events/s/slovenian-zouk-marathon-94-134/2065533340945274",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/flowinzouk",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "alma-bachata-kizomba-brazilian-zouk-festival",
+    "name": "ALMA Bachata, Kizomba & Brazilian Zouk Festival",
+    "city": "Santa Susanna (Barcelona)",
+    "country": "Spain",
+    "style": "mixed",
+    "editions": {
+      "2027": {
+        "start": "2027-05-20",
+        "end": "2027-05-24",
+        "source": "https://salsero.es/events/10855/alma-bachata-kizomba-brazilian-zouk-festival-2027-iv-edition"
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "bdf-lambada-on-fire",
+    "name": "BDF Lambada On Fire",
+    "city": "Salou",
+    "country": "Spain",
+    "style": "lambada",
+    "editions": {
+      "2026": {
+        "start": "2026-10-23",
+        "end": "2026-10-25",
+        "source": "https://www.danceplace.com/index/no/17375/BDF+Lambada+On+Fire+_+Salou+Spain-2026-Salou-Spain-Lambada+Dance+event"
+      },
+      "2027": {
+        "start": "2027-10-14",
+        "end": "2027-10-17",
+        "source": "https://www.instagram.com/lambadaonfire/p/DfHSMDVoRea/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://www.lambadaonfire.com",
+    "facebook_event_latest": "https://www.facebook.com/events/1305937481306681",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/lambadaonfire",
+    "last_checked": "2026-11-10",
+    "note_2027": "Early-bird post and IG bio; same venue as 2026."
+  },
+  {
+    "id": "bachazouk-world-congress-madrid",
+    "name": "Bachazouk World Congress Madrid",
+    "city": "Madrid",
+    "country": "Spain",
+    "style": "bachazouk",
+    "editions": {
+      "2027": {
+        "start": "2027-01-29",
+        "end": "2027-01-31",
+        "source": "https://salsero.es/events/10805/bachazouk-world-congress-madrid-2027"
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "baila-zouk-a-tu-ritmo-congress",
+    "name": "Baila Zouk A Tu Ritmo Congress",
+    "city": "Barakaldo (Bilbao)",
+    "country": "Spain",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-02-14",
+        "end": "2025-02-16",
+        "source": "https://www.danceplace.com/index/no/14435/Baila+Zouk+A+Tu+Ritmo+Congress-2025-Barakaldo-Spain-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-02-13",
+        "end": "2026-02-15",
+        "source": "https://www.danceplace.com/index/no/14747/Baila+Zouk+A+Tu+Ritmo+Congress-2026-Barakaldo-Spain-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-02-12",
+        "end": "2027-02-14",
+        "source": "https://www.danceplace.com/index/no/16626/Baila+Zouk+A+Tu+Ritmo+Congress-2027-Barakaldo-Spain-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://escuelaaturitmo.com/",
+    "facebook_event_latest": "https://www.facebook.com/events/2043303869569349",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/bailazoukaturitmocongress",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "big-brother-zouk",
+    "name": "Big Brother Zouk",
+    "city": "Santa Susanna (Barcelona)",
+    "country": "Spain",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-09-25",
+        "end": "2025-09-30",
+        "source": "https://www.danceplace.com/index/no/15379/Big+Brother+Zouk+Jungle+Edition-2025-Santa+Susana-Spain-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-09-24",
+        "end": "2026-09-29",
+        "source": "https://where-to-dance-salsa.com/festivals/barcelona/big-brother-zouk-2026-infinity-edition/"
+      },
+      "2027": {
+        "start": "2027-09-23",
+        "end": "2027-09-27",
+        "source": "https://www.instagram.com/bigbrotherzouk/p/Deg26JBMORd/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": "https://www.facebook.com/profile.php?id=100086548924014",
+    "instagram": "https://www.instagram.com/bigbrotherzouk",
+    "last_checked": "2026-11-10",
+    "note_2027": "Save-the-date post; registration not open yet."
+  },
+  {
+    "id": "ibiza-zouk-dance-festival",
+    "name": "IBIZA Zouk Dance Festival",
+    "city": "Ibiza",
+    "country": "Spain",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-05-08",
+        "end": "2025-05-11",
+        "source": "https://www.danceplace.com/index/no/14223/IBIZA+Zouk+Dance+Festival-2025-San+Antonio_+IBIZA-Spain-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "unknown (no 2026 edition found)",
+    "website": "http://www.ibizazoukdancefestival.com",
+    "facebook_event_latest": "https://www.facebook.com/events/286300831217384",
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "lambada-weekend-mallorca",
+    "name": "Lambada Weekend Mallorca",
+    "city": "Palma de Mallorca",
+    "country": "Spain",
+    "style": "lambada",
+    "editions": {
+      "2026": {
+        "start": "2026-03-28",
+        "end": "2026-03-29",
+        "source": "https://where-to-dance-salsa.com/festivals/palma-de-mallorca/lambada-weekend-mallorca/"
+      }
+    },
+    "status_2027": "expected",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "latin-notion-halloween-festival",
+    "name": "Latin Notion Halloween Festival",
+    "city": "Tarragona",
+    "country": "Spain",
+    "style": "mixed",
+    "editions": {
+      "2025": {
+        "start": "2025-10-30",
+        "end": "2025-11-02",
+        "source": "https://www.danceplace.com/index/no/15783/Latin+Notion+Halloween+Festival-2025-Tarragona-Spain-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-10-22",
+        "end": "2026-10-26",
+        "source": "https://www.danceplace.com/index/no/16588/Latin+Notion+Halloween+Festival-2026-Tarragona-Spain-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-10-21",
+        "end": "2027-10-25",
+        "source": "https://www.instagram.com/latinnotion.spain/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://latinnotion.com",
+    "facebook_event_latest": "https://www.facebook.com/events/1138493114097396",
+    "facebook_page": null,
+    "instagram": "https://instagram.com/latinnotion.spain",
+    "last_checked": "2026-11-10",
+    "note_2027": "From organizer IG bio (Bachata | Brazilian Zouk)."
+  },
+  {
+    "id": "mac-festival-spain",
+    "name": "Mac Festival Spain",
+    "city": "Barakaldo (Bilbao)",
+    "country": "Spain",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-12-12",
+        "end": "2025-12-14",
+        "source": "https://www.danceplace.com/index/no/15215/Mac+Festival+Spain-2025-Barakaldo-Spain-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "unknown (no 2026 edition found)",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/876591181139742",
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "madrid-zouk-bachata-festival",
+    "name": "Madrid Zouk Bachata Festival",
+    "city": "Madrid",
+    "country": "Spain",
+    "style": "mixed",
+    "editions": {
+      "2025": {
+        "start": "2025-09-11",
+        "end": "2025-09-15",
+        "source": "https://www.danceplace.com/index/no/15583/Madrid+Zouk+Bachata+Festival-2025-Madrid-Spain-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-09-17",
+        "end": "2026-09-20",
+        "source": "https://www.danceplace.com/index/no/15856/Madrid+Zouk+Bachata+Festival-2026-Madrid-Spain-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://www.madridzoukbachatacongress.com/",
+    "facebook_event_latest": "https://www.facebook.com/events/3078546888987134",
+    "facebook_page": "https://www.facebook.com/madridzoukbachatacongress",
+    "instagram": "https://www.instagram.com/madridzoukbachatafestival",
+    "last_checked": "2026-11-10",
+    "note_2027": "No 2027 found (organizer site stale (2025), checked 2026-11-10)."
+  },
+  {
+    "id": "surf-n-zouk-gran-canaria",
+    "name": "Surf 'n Zouk Gran Canaria",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-11-13",
+        "end": "2026-11-28",
+        "source": "https://salsero.es/events/10669/surf-and-zouk-2026-gran-canaria"
+      }
+    },
+    "status_2027": "expected (2026 edition not yet held)",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/surfnzouk",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "zouk-lambada-beach-festival",
+    "name": "Zouk Lambada Beach Festival",
+    "city": "Santa Susanna (Barcelona)",
+    "country": "Spain",
+    "style": "bz+lambada",
+    "editions": {
+      "2025": {
+        "start": "2025-09-05",
+        "end": "2025-09-08",
+        "source": "https://www.danceplace.com/index/no/15658/Zouk+Lambada+Beach+Festival-2025-Santa+Susana-Spain-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-09-04",
+        "end": "2026-09-07",
+        "source": "https://www.danceplace.com/index/no/17513/Zouk+Lambada+Beach+Festival-2026-Santa+Susana-Spain-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "http://www.zouklambadabcn.com",
+    "facebook_event_latest": "https://www.facebook.com/events/1156474766071253",
+    "facebook_page": "https://www.facebook.com/xavi.zouk",
+    "instagram": "https://www.instagram.com/beachfestivalzouklambada",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "zouk-world-barcelona-congress",
+    "name": "Zouk World Barcelona Congress",
+    "city": "Santa Susanna (Barcelona)",
+    "country": "Spain",
+    "style": "bz+lambada",
+    "editions": {
+      "2025": {
+        "start": "2025-04-24",
+        "end": "2025-04-28",
+        "source": "https://www.danceplace.com/index/no/14207/Barcelona+ZOUK+WORLD+Congress-2025-Santa+Susanna+Barcelona-Spain-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-04-23",
+        "end": "2026-04-27",
+        "source": "https://www.danceplace.com/index/no/16364/Barcelona+ZOUK+WORLD+Congress-2026-Santa+Susanna+Barcelona-Spain-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-04-22",
+        "end": "2027-04-26",
+        "source": "https://www.danceplace.com/index/no/17168/Barcelona+ZOUK+WORLD+Congress-2027-Santa+Susanna+Barcelona-Spain-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/1666601040647157",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zoukworld.barcelona",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "zoukbump-weekend",
+    "name": "ZoukBump Weekend",
+    "city": "Madrid",
+    "country": "Spain",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-06-26",
+        "end": "2026-06-28",
+        "source": "https://www.danceplace.com/index/no/16587/ZoukBump+Weekend-2026-Madrid-Spain-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://zoukbump.com/",
+    "facebook_event_latest": null,
+    "facebook_page": "https://www.facebook.com/profile.php?id=61573183613144",
+    "instagram": "https://www.instagram.com/zoukbumpweekend",
+    "last_checked": "2026-11-10",
+    "note_2027": "No 2027 found (organizer site lists only June 2026, checked 2026-11-10)."
+  },
+  {
+    "id": "alegria-do-norte",
+    "name": "Alegria do Norte",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-07-03",
+        "end": "2026-07-05",
+        "source": "https://where-to-dance-salsa.com/festivals/zouk/stockholm"
+      }
+    },
+    "status_2027": "expected",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "north-zouk-bachata-fest",
+    "name": "North Zouk & Bachata Fest",
+    "city": "Skellefteå",
+    "country": "Sweden",
+    "style": "mixed",
+    "editions": {
+      "2026": {
+        "start": "2026-11-20",
+        "end": "2026-11-22",
+        "source": "https://where-to-dance-salsa.com/festivals/skelleftea/north-zouk-bachata-fest/"
+      }
+    },
+    "status_2027": "expected (2026 edition not yet held)",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "daytime-zouk-festival-switzerland",
+    "name": "Daytime Zouk Festival Switzerland",
+    "city": "Frenkendorf (Basel)",
+    "country": "Switzerland",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-11-20",
+        "end": "2026-11-22",
+        "source": "https://www.tickettailor.com/events/zoukarium/2065231"
+      }
+    },
+    "status_2027": "expected (2026 edition not yet held)",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "1love-dance-marathon",
+    "name": "1Love Dance Marathon",
+    "city": "Lviv",
+    "country": "Ukraine",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-04-25",
+        "end": "2025-04-27",
+        "source": "https://www.danceplace.com/index/no/15028/1Love+Dance+Marathon-2025-Lviv-Ukraine-Brazilian+Zouk+Dance+event"
+      },
+      "2027": {
+        "start": "2027-04-23",
+        "end": "2027-04-25",
+        "source": "https://www.instagram.com/1love_dance_marathon/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://bdslviv.org.ua",
+    "facebook_event_latest": "https://www.facebook.com/events/2093601497752046",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/1love_dance_marathon",
+    "last_checked": "2026-11-10",
+    "note_2027": "IG bio: 1Love Marathon at LEOLAND, Lviv (bachata, kizomba, zouk)."
+  },
+  {
+    "id": "bath-zouk-weekender",
+    "name": "Bath Zouk Weekender",
+    "city": "Bath",
+    "country": "United Kingdom",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-02-21",
+        "end": "2026-02-22",
+        "source": "https://bathzouk-astro.pages.dev/weekender"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://bathzouk-astro.pages.dev/weekender",
+    "facebook_event_latest": null,
+    "facebook_page": "https://www.facebook.com/groups/bathzouk",
+    "instagram": "https://www.instagram.com/bathzouk",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "brighton-latin-summer-bash",
+    "name": "Brighton Latin Summer Bash",
+    "city": "Brighton",
+    "country": "United Kingdom",
+    "style": "mixed",
+    "editions": {
+      "2026": {
+        "start": "2026-07-04",
+        "end": null,
+        "source": "https://www.salsavida.com/?p=48140"
+      }
+    },
+    "status_2027": "expected",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/601202149062189",
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "flowstate-zouk-west-coast-swing-festival",
+    "name": "FlowState – Zouk & West Coast Swing Festival",
+    "city": "(UK)",
+    "country": "United Kingdom",
+    "style": "mixed",
+    "editions": {
+      "2026": {
+        "start": "2026-11-13",
+        "end": "2026-11-15",
+        "source": "https://www.danceplace.com/index/no/17067/FlowState+_+Zouk+_+West+Coast+Swing+Festival-+-+-United+Kingdom-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected (2026 edition not yet held)",
+    "website": "https://flowstatefest.com",
+    "facebook_event_latest": "https://www.facebook.com/events/1289944146071030",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/flowstate_fest",
+    "last_checked": "2026-11-10",
+    "note_2027": "No 2027 found (organizer site lists only 2026, checked 2026-11-10)."
+  },
+  {
+    "id": "london-sensual-days-bachata-vs-zouk",
+    "name": "London Sensual Days (Bachata vs Zouk)",
+    "city": "London",
+    "country": "United Kingdom",
+    "style": "mixed",
+    "editions": {
+      "2026": {
+        "start": "2026-06-19",
+        "end": "2026-06-21",
+        "source": "https://www.tickettailor.com/events/londonsensualdays/2162290"
+      }
+    },
+    "status_2027": "expected",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "the-zouk-lounge-london-edition",
+    "name": "The Zouk Lounge – London Edition",
+    "city": "London",
+    "country": "United Kingdom",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-04-11",
+        "end": "2025-04-14",
+        "source": "https://www.danceplace.com/index/no/14249/The+Zouk+Lounge+_+London+Edition-2025-London-United+Kingdom-Brazilian+Zouk+Dance+event"
+      },
+      "2026": {
+        "start": "2026-04-17",
+        "end": "2026-04-19",
+        "source": "https://www.danceplace.com/index/no/15769/The+Zouk+Lounge+_+London+Edition-2026-London-United+Kingdom-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://ukdc.co.uk",
+    "facebook_event_latest": "https://www.facebook.com/events/944383890503570",
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/ukdczouk",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "zouk-fling-new-year",
+    "name": "Zouk Fling (New Year)",
+    "city": "London",
+    "country": "United Kingdom",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-01-01",
+        "end": "2026-01-05",
+        "source": "https://www.danceplace.com/index/no/16069/Zouk+Fling-2026-London-United+Kingdom-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": "https://ukdc.co.uk",
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/ukdczouk",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "zouk-hour-england",
+    "name": "Zouk Hour England",
+    "city": "Brighton",
+    "country": "United Kingdom",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-09-05",
+        "end": "2026-09-06",
+        "source": "https://www.danceplace.com/index/no/17135/Zouk+Hour+England+-2026-Brighton-United+Kingdom-Brazilian+Zouk+Dance+event"
+      }
+    },
+    "status_2027": "expected",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10"
+  },
+  {
+    "id": "zouktime-brno-marathon",
+    "name": "Zouktime! Brno Marathon",
+    "city": "Brno",
+    "country": "Czechia",
+    "style": "bz+lambada",
+    "editions": {
+      "2027": {
+        "start": "2027-04-02",
+        "end": "2027-04-04",
+        "source": "https://www.instagram.com/zouktimeevents/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": "http://www.zouktime.com",
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/zouktimeevents",
+    "last_checked": "2026-11-10",
+    "note_2027": "New series found via the Zouktime IG bio (same organizer as the Brno festival)."
+  },
+  {
+    "id": "berlin-zouk-marathon",
+    "name": "Berlin Zouk Marathon",
+    "city": "Berlin",
+    "country": "Germany",
+    "style": "bz",
+    "editions": {
+      "2027": {
+        "start": "2027-02-05",
+        "end": "2027-02-07",
+        "source": "https://www.modernzouk.com/marathon",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://www.modernzouk.com/marathon",
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10",
+    "note_2027": "New series, found via the \"Brazilian Zouk & Lambada Events in Europe – collected by DJ Mesmes\" Facebook page. Capped at 120 dancers; Tangoloft + Haus der Sinne."
+  }
+]
