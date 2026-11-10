@@ -2723,5 +2723,310 @@
     "instagram": null,
     "last_checked": "2026-11-10",
     "note_2027": "2026 edition held (photo album \"Flow Festival 2026, Bremen\" on the page), exact dates not found; 2024–2025 ran in March. Nothing for 2027 yet. Found via the Zouk Calendar FB group."
+  },
+  {
+    "id": "hamburg-zouk-marathon",
+    "name": "Hamburg Zouk Marathon",
+    "city": "Hamburg",
+    "country": "Germany",
+    "style": "bz",
+    "editions": {
+      "2027": {
+        "start": "2027-04-03",
+        "end": "2027-04-04",
+        "source": "https://www.facebook.com/events/997116232822608/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/997116232822608/",
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10",
+    "note_2027": "By Zouk Emotion Hamburg; 1st edition was Apr 2024. End date from the Mesmes listing. Found via the DJ Mesmes \"Brazilian Zouk & Lambada Events in Europe\" FB page."
+  },
+  {
+    "id": "riga-zouk-festival",
+    "name": "Riga Zouk Festival",
+    "city": "Riga",
+    "country": "Latvia",
+    "style": "bz",
+    "editions": {
+      "2027": {
+        "start": "2027-05-14",
+        "end": "2027-05-16",
+        "source": "https://www.facebook.com/events/2171399716851703/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/2171399716851703/",
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10",
+    "note_2027": "Found via the DJ Mesmes \"Brazilian Zouk & Lambada Events in Europe\" FB page."
+  },
+  {
+    "id": "zouk-surf-retreats-peniche",
+    "name": "Zouk & Surf Retreats",
+    "city": "Peniche",
+    "country": "Portugal",
+    "style": "bz",
+    "editions": {
+      "2027": {
+        "start": "2027-05-20",
+        "end": "2027-05-24",
+        "source": "https://www.facebook.com/events/1739776260455230/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/1739776260455230/",
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10",
+    "note_2027": "At Peniche Surf Camp; may be related to SurfnZouk Peniche — not confirmed. Found via the DJ Mesmes \"Brazilian Zouk & Lambada Events in Europe\" FB page."
+  },
+  {
+    "id": "parma-zouk-marathon",
+    "name": "Parma Zouk Marathon",
+    "city": "Parma",
+    "country": "Italy",
+    "style": "bz",
+    "editions": {
+      "2027": {
+        "start": "2027-07-02",
+        "end": "2027-07-04",
+        "source": "https://www.facebook.com/events/1368540075201813/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://www.wydpersonaltravelling.com/",
+    "facebook_event_latest": "https://www.facebook.com/events/1368540075201813/",
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10",
+    "note_2027": "Same producer as Zouk Cruise Holiday (WYD). Found via the DJ Mesmes \"Brazilian Zouk & Lambada Events in Europe\" FB page."
+  },
+  {
+    "id": "zouk-marathon-bonn",
+    "name": "Zouk Marathon Bonn",
+    "city": "Bonn",
+    "country": "Germany",
+    "style": "bz",
+    "editions": {
+      "2027": {
+        "start": "2027-07-23",
+        "end": "2027-07-25",
+        "source": "https://www.facebook.com/events/1114068014945185/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": "https://eveeno.com/222143852",
+    "facebook_event_latest": "https://www.facebook.com/events/1114068014945185/",
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10",
+    "note_2027": "At Freie Waldorfschule Bonn. Found via the DJ Mesmes \"Brazilian Zouk & Lambada Events in Europe\" FB page."
+  },
+  {
+    "id": "bremen-lambada-congress",
+    "name": "Bremen Lambada Congress",
+    "city": "Bremen",
+    "country": "Germany",
+    "style": "lambada",
+    "editions": {
+      "2027": {
+        "start": "2027-09-24",
+        "end": "2027-09-26",
+        "source": "https://www.facebook.com/events/1040524342300992/",
+        "confirmed_by_organizer": true
+      }
+    },
+    "status_2027": "listed",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/1040524342300992/",
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10",
+    "note_2027": "At Tanzschule Tanzarena Bremen. Found via the DJ Mesmes \"Brazilian Zouk & Lambada Events in Europe\" FB page."
+  },
+  {
+    "id": "cracow-zouk-marathon",
+    "name": "Cracow Zouk Marathon",
+    "city": "Kraków",
+    "country": "Poland",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-06-26",
+        "end": "2026-06-28",
+        "source": "https://fb.me/e/8yLuRXoJT"
+      }
+    },
+    "status_2027": "expected",
+    "website": null,
+    "facebook_event_latest": "https://fb.me/e/8yLuRXoJT",
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10",
+    "note_2027": "Ran twice in 2026 (23–25 Jan and 26–28 Jun); also Aug 2024. Found via the DJ Mesmes \"Brazilian Zouk & Lambada Events in Europe\" FB page."
+  },
+  {
+    "id": "organic-flow-zouk-marathon",
+    "name": "Organic Flow Zouk Marathon",
+    "city": "Warsaw",
+    "country": "Poland",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-01-02",
+        "end": "2026-01-04",
+        "source": "https://facebook.com/events/s/organic-flow-zouk-marathon/2073595196716695/"
+      }
+    },
+    "status_2027": "expected",
+    "website": null,
+    "facebook_event_latest": "https://www.facebook.com/events/2073595196716695/",
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10",
+    "note_2027": "Found via the DJ Mesmes \"Brazilian Zouk & Lambada Events in Europe\" FB page."
+  },
+  {
+    "id": "cross-flow-festival",
+    "name": "Cross Flow Festival",
+    "city": "Berlin",
+    "country": "Germany",
+    "style": "mixed",
+    "editions": {
+      "2026": {
+        "start": "2026-06-04",
+        "end": "2026-06-08",
+        "source": "https://fb.me/e/4lcuYAfMJ"
+      }
+    },
+    "status_2027": "expected",
+    "website": null,
+    "facebook_event_latest": "https://fb.me/e/4lcuYAfMJ",
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10",
+    "note_2027": "Listed on a zouk calendar; style mix not verified. Found via the DJ Mesmes \"Brazilian Zouk & Lambada Events in Europe\" FB page."
+  },
+  {
+    "id": "elbe-valley-zouk-experience",
+    "name": "Elbe Valley Zouk Experience",
+    "city": "Neu Darchau",
+    "country": "Germany",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-08-19",
+        "end": "2025-08-25",
+        "source": "https://www.instagram.com/elbevalleyzouk"
+      },
+      "2026": {
+        "start": "2026-06-09",
+        "end": "2026-06-15",
+        "source": "https://www.instagram.com/elbevalleyzouk"
+      }
+    },
+    "status_2027": "expected",
+    "website": null,
+    "facebook_event_latest": null,
+    "facebook_page": null,
+    "instagram": "https://www.instagram.com/elbevalleyzouk",
+    "last_checked": "2026-11-10",
+    "note_2027": "Marathon/camp format; 2025 billed as Elbe Valley Zouk Marathon summer camp (Glienitz). Found via the DJ Mesmes \"Brazilian Zouk & Lambada Events in Europe\" FB page."
+  },
+  {
+    "id": "zoukarium-dance-holiday",
+    "name": "Zoukarium Dance Holiday",
+    "city": "Le Moulin d'Abondance",
+    "country": "France",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-06-11",
+        "end": "2026-06-14",
+        "source": "https://fb.me/e/3ex7s0vJR"
+      }
+    },
+    "status_2027": "expected",
+    "website": null,
+    "facebook_event_latest": "https://fb.me/e/3ex7s0vJR",
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10",
+    "note_2027": "Found via the DJ Mesmes \"Brazilian Zouk & Lambada Events in Europe\" FB page."
+  },
+  {
+    "id": "wro-latin-fusion-festival",
+    "name": "Wro Latin Fusion Festival",
+    "city": "Wrocław",
+    "country": "Poland",
+    "style": "mixed",
+    "editions": {
+      "2026": {
+        "start": "2026-10-09",
+        "end": "2026-10-12",
+        "source": "https://fb.me/e/a3seExPrQ"
+      }
+    },
+    "status_2027": "expected",
+    "website": null,
+    "facebook_event_latest": "https://fb.me/e/a3seExPrQ",
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10",
+    "note_2027": "Found via the DJ Mesmes \"Brazilian Zouk & Lambada Events in Europe\" FB page."
+  },
+  {
+    "id": "holland-zouk-festival",
+    "name": "Holland Zouk Festival",
+    "city": "Workum",
+    "country": "Netherlands",
+    "style": "bz",
+    "editions": {
+      "2025": {
+        "start": "2025-02-27",
+        "end": "2025-03-01",
+        "source": "https://fb.me/e/4jFpjK3oU"
+      }
+    },
+    "status_2027": "unknown (no 2026 edition found)",
+    "website": null,
+    "facebook_event_latest": "https://fb.me/e/4jFpjK3oU",
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10",
+    "note_2027": "Found via the DJ Mesmes \"Brazilian Zouk & Lambada Events in Europe\" FB page."
+  },
+  {
+    "id": "tallinn-zouk-experience",
+    "name": "Tallinn Zouk Experience",
+    "city": "Tallinn",
+    "country": "Estonia",
+    "style": "bz",
+    "editions": {
+      "2026": {
+        "start": "2026-11-20",
+        "end": "2026-11-23",
+        "source": "https://fb.me/e/4fk7RXJcM"
+      }
+    },
+    "status_2027": "expected (2026 edition not yet held)",
+    "website": null,
+    "facebook_event_latest": "https://fb.me/e/4fk7RXJcM",
+    "facebook_page": null,
+    "instagram": null,
+    "last_checked": "2026-11-10",
+    "note_2027": "Found via the DJ Mesmes \"Brazilian Zouk & Lambada Events in Europe\" FB page."
   }
 ]
