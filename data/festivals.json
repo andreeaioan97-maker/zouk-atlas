@@ -107,7 +107,8 @@
     "facebook_event_latest": "https://www.facebook.com/events/1739544790318141",
     "facebook_page": null,
     "instagram": "https://www.instagram.com/croatialambadamarathon",
-    "last_checked": "2026-11-10"
+    "last_checked": "2026-11-10",
+    "note_2027": "IG checked 2026-11-10: bio and posts cover only the 2nd edition (17–22 June 2026); nothing for 2027 yet."
   },
   {
     "id": "croatia-zouk-marathon",
@@ -644,9 +645,10 @@
     "style": "mixed",
     "editions": {
       "2027": {
-        "start": "2027-02-19",
-        "end": "2027-02-21",
-        "source": "https://www.danceplace.com/index/no/17036/Big+3+Festival-2027-Hamburg-Germany-Bachata+Dance+event"
+        "start": "2027-02-18",
+        "end": "2027-02-22",
+        "source": "https://www.facebook.com/events/962095250012629",
+        "confirmed_by_organizer": true
       }
     },
     "status_2027": "listed",
@@ -654,7 +656,8 @@
     "facebook_event_latest": "https://www.facebook.com/events/962095250012629",
     "facebook_page": null,
     "instagram": "https://www.instagram.com/big3festival",
-    "last_checked": "2026-11-10"
+    "last_checked": "2026-11-10",
+    "note_2027": "Organizer FB event: 18–22 Feb 2027 at Hamburg Dammtor (earlier danceplace listing said 19–21 Feb). DJ Mesmes also lists a \"Big3 19–21 Jan 2027\", which looks like a typo for February."
   },
   {
     "id": "bachata-zouk-royals",
@@ -778,7 +781,7 @@
     "facebook_page": null,
     "instagram": "https://www.instagram.com/zoukernatural",
     "last_checked": "2026-11-10",
-    "note_2027": "No 2027 found (organizer site, nothing for 2027, checked 2026-11-10)."
+    "note_2027": "No 2027 found (organizer site, nothing for 2027, checked 2026-11-10). IG profile not available on 2026-11-10 (renamed or removed?)."
   },
   {
     "id": "brazouky-germany-worldwide-brazilian-dance-festival",
@@ -854,7 +857,7 @@
     "facebook_page": "https://www.facebook.com/profile.php?id=100083342950642",
     "instagram": "https://www.instagram.com/essential_rhythm_erfurt",
     "last_checked": "2026-11-10",
-    "note_2027": "The 2026/27 New Year edition (31 Dec 2026–3 Jan 2027) is the one recorded as 2026."
+    "note_2027": "The 2026/27 New Year edition (31 Dec 2026–4 Jan 2027, per the organizer flyer) is the one recorded as 2026."
   },
   {
     "id": "forrozin-festiv-all",
@@ -967,7 +970,8 @@
     "facebook_event_latest": "https://www.facebook.com/events/s/salsakizzes-zouk-festival-in-f/2854552248226402",
     "facebook_page": null,
     "instagram": "https://www.instagram.com/sbk_zouk_festival",
-    "last_checked": "2026-11-10"
+    "last_checked": "2026-11-10",
+    "note_2027": "IG profile not available on 2026-11-10 (renamed or removed?)."
   },
   {
     "id": "xplosion-berlin-zouk-festival",
@@ -2392,7 +2396,7 @@
     "facebook_page": "https://www.facebook.com/profile.php?id=61573183613144",
     "instagram": "https://www.instagram.com/zoukbumpweekend",
     "last_checked": "2026-11-10",
-    "note_2027": "No 2027 found (organizer site lists only June 2026, checked 2026-11-10)."
+    "note_2027": "No 2027 found (organizer site lists only June 2026, checked 2026-11-10). IG profile not available on 2026-11-10 (renamed or removed?)."
   },
   {
     "id": "alegria-do-norte",
