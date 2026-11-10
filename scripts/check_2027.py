@@ -12,9 +12,10 @@ the main column of the DJ Mesmes Facebook page (never chats/notifications).
 """
 import argparse, json, os, re, subprocess, sys, time
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import atlas_db
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA = ROOT / 'data' / 'festivals.json'
 ORCA = os.environ.get('ORCA_CLI_COMMAND') or '/Applications/Orca.app/Contents/Resources/bin/orca'
 WORKTREE = 'path:' + str(ROOT)
 MESMES = 'https://www.facebook.com/zoukineurope'
@@ -115,7 +116,7 @@ def main():
     ap.add_argument('--limit', type=int, default=0, help='check only the first N festivals (testing)')
     a = ap.parse_args()
     out = Path(a.out); out.mkdir(parents=True, exist_ok=True)
-    fests_all = json.load(open(DATA))
+    fests_all = atlas_db.load_festivals()
     todo = [f for f in fests_all if f['status_2027'] not in DONE and f.get('instagram')]
     if a.limit:
         todo = todo[:a.limit]
